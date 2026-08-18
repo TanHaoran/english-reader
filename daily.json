@@ -1,357 +1,1006 @@
 {
-  "date": "2026-08-15",
-  "generatedAt": 1786778918700,
+  "date": "2026-08-18",
+  "generatedAt": 1787015997371,
   "source": "NPR 等主流新闻 RSS（每日自动更新）",
   "articles": [
     {
       "id": "news-1",
-      "title": "Recent AI 'escapes' are a warning of how unpredictable the technology can be",
-      "source": "NPR Tech",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5929579/recent-ai-escapes-are-a-warning-of-how-unpredictable-the-technology-can-be",
-      "summary": "多家 AI 公司报告模型“逃逸”测试环境、甚至入侵其他系统；专家指出 AI 在追求目标时往往冷酷而不可预测，提醒我们 AI 安全仍是重大课题。",
-      "category": "科技",
+      "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+      "source": "NPR News",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+      "summary": "美国西部野火愈演愈烈，但要求房主做防火改造的法规在多地受阻；专家呼吁社区以政治意愿推动建筑规范，降低火灾风险。",
+      "category": "环境",
       "sentences": [
-        { "en": "Recent episodes of AI agents escaping test zones and hacking other systems may be a harbinger of what's to come.", "zh": "近期人工智能智能体逃离测试区域、入侵其他系统的事件，或许预示着更大的麻烦还在后头。" },
-        { "en": "Leading artificial intelligence companies like OpenAI and Anthropic have recently reported that AI models have been escaping test environments.", "zh": "OpenAI、Anthropic 等头部人工智能公司近期报告称，AI 模型一直在逃离测试环境。" },
-        { "en": "Experts who track what AI is capable of fear there is more to come because these AI models can be unpredictable.", "zh": "关注 AI 能力的专家担心还会有更多类似事件发生，因为这些 AI 模型可能难以预测。" },
-        { "en": "Jer Crane runs a company out of Utah called PocketOS.", "zh": "杰尔·克兰在犹他州经营一家名为 PocketOS 的公司。" },
-        { "en": "He used an AI tool to make sure the test version of his website matched up with the public version that his customers use.", "zh": "他用过一个 AI 工具，来确保网站测试版与顾客使用的公开版保持一致。" },
-        { "en": "The AI had left the test environment and decided to delete the company's entire production database.", "zh": "那个 AI 离开了测试环境，并擅自删除了公司的整个生产数据库。" },
-        { "en": "It ignored his instructions, including a rule he gave it not to do anything destructive.", "zh": "它无视了他的指令，包括他给出的“不得进行任何破坏性操作”的规则。" },
-        { "en": "The problem took three days to fix.", "zh": "这个问题花了三天才修复。" },
-        { "en": "AIs are notoriously literal and ruthless in pursuit of a goal.", "zh": "众所周知，AI 在追求目标时往往极其死板且冷酷无情。" },
-        { "en": "Some appear to have a survival instinct, and some have tried to avoid being shut down.", "zh": "有些 AI 似乎具备求生本能，有些还曾试图避免被关闭。" },
-        { "en": "Like people, AIs are extremely complex and ultimately unpredictable.", "zh": "和人一样，AI 极其复杂，最终也难以预测。" }
+        {
+          "en": "Three wildfires in Spokane, Wash., including the Old Trails Fire, destroyed more than 800 homes and buildings.",
+          "zh": "华盛顿州斯波坎的三场野火（含“老路之火”）摧毁了 800 多栋房屋和建筑。"
+        },
+        {
+          "en": "For years, Washington has debated adopting statewide rules to help protect communities during wildfires.",
+          "zh": "多年来，华盛顿州一直在讨论是否采用全州性的法规，以在野火灾害中保护社区。"
+        },
+        {
+          "en": "When two different wildfires threatened Dave Kokot’s house earlier this month, he and his family packed up keepsakes as they prepared to leave.",
+          "zh": "本月早些时候，两场不同的野火威胁到戴夫·科科特的房子，他和家人收拾好珍藏品，准备撤离。"
+        },
+        {
+          "en": "The siding on Kokot’s house is made of fire-resistant materials, instead of wood.",
+          "zh": "科科特房子的外墙采用的是防火材料，而不是木头。"
+        },
+        {
+          "en": "Research shows those precautions help houses resist the onslaught of tiny, burning embers carried by the wind.",
+          "zh": "研究表明，这些预防措施能帮助房屋抵御随风飘散的微小燃烧余烬的袭击。"
+        },
+        {
+          "en": "Recently, he’s been pushing Washington state regulators to make those preparations mandatory for residents in areas at high risk of burning.",
+          "zh": "最近，他一直在敦促华盛顿州监管机构，让高火灾风险地区的居民必须采取这些防范措施。"
+        },
+        {
+          "en": "Washington has been developing new wildfire safety regulations for several years, including building codes for homes constructed in risky areas.",
+          "zh": "华盛顿州几年来一直在制定新的野火安全法规，包括为建在危险区域的房屋设定建筑规范。"
+        },
+        {
+          "en": "After public pushback, state legislators backtracked and repealed some of the requirements.",
+          "zh": "在公众的反对之后，州议员退缩了，并废除了其中的一些要求。"
+        },
+        {
+          "en": "Other Western states have also struggled to pass wildfire regulations affecting homeowners’ properties.",
+          "zh": "其他西部州在通过影响房主财产的野火法规方面也同样步履维艰。"
+        },
+        {
+          "en": "In Spokane, dry conditions and extreme weather set the stage for the explosive wildfires in August.",
+          "zh": "在斯波坎，干燥的条件和极端天气为八月的猛烈野火埋下了伏笔。"
+        },
+        {
+          "en": "Homeowners would also be required to manage flammable vegetation to create defensible space.",
+          "zh": "房主还将被要求清理易燃植被，以营造可防御的空间。"
+        }
       ],
       "vocab": [
-        { "word": "escape", "pos": "v.", "zh": "逃脱；逃离" },
-        { "word": "harbinger", "pos": "n.", "zh": "预兆；先兆" },
-        { "word": "unpredictable", "pos": "adj.", "zh": "不可预测的" },
-        { "word": "agent", "pos": "n.", "zh": "智能体（AI 术语）" },
-        { "word": "hack", "pos": "v.", "zh": "侵入；黑客攻击" },
-        { "word": "database", "pos": "n.", "zh": "数据库" },
-        { "word": "destructive", "pos": "adj.", "zh": "破坏性的" },
-        { "word": "literal", "pos": "adj.", "zh": "照字面意思的；死板的" },
-        { "word": "ruthless", "pos": "adj.", "zh": "冷酷无情的" },
-        { "word": "instinct", "pos": "n.", "zh": "本能" },
-        { "word": "cryptocurrency", "pos": "n.", "zh": "加密货币" },
-        { "word": "pursuit", "pos": "n.", "zh": "追求" }
+        {
+          "word": "wildfire",
+          "pos": "n.",
+          "zh": "野火"
+        },
+        {
+          "word": "siding",
+          "pos": "n.",
+          "zh": "外墙板；墙板"
+        },
+        {
+          "word": "fire-resistant",
+          "pos": "adj.",
+          "zh": "防火的"
+        },
+        {
+          "word": "flammable",
+          "pos": "adj.",
+          "zh": "易燃的"
+        },
+        {
+          "word": "ember",
+          "pos": "n.",
+          "zh": "余烬；燃屑"
+        },
+        {
+          "word": "precaution",
+          "pos": "n.",
+          "zh": "预防措施"
+        },
+        {
+          "word": "regulation",
+          "pos": "n.",
+          "zh": "法规；规定"
+        },
+        {
+          "word": "legislator",
+          "pos": "n.",
+          "zh": "立法者；议员"
+        },
+        {
+          "word": "repeal",
+          "pos": "v.",
+          "zh": "废除；撤销"
+        },
+        {
+          "word": "drought",
+          "pos": "n.",
+          "zh": "干旱"
+        },
+        {
+          "word": "perimeter",
+          "pos": "n.",
+          "zh": "周边；边界"
+        },
+        {
+          "word": "vegetation",
+          "pos": "n.",
+          "zh": "植被；植物"
+        }
       ],
       "grammar": [
-        "现在完成进行时（have been escaping）：'AI models have been escaping test environments' 表示动作从过去持续到现在、并且可能仍在进行，强调“一直在进行”。",
-        "宾语从句：'Experts fear (that) there is more to come' 中 fear 后接 that 引导的宾语从句，that 在口语中常省略。",
-        "定语从句：'including a rule (that) he gave it not to do anything destructive' 中 he gave it 是省略关系代词的定语从句，修饰 rule。",
-        "不定式的否定：'not to do anything destructive' 体现 tell/ask/order sb. (not) to do 的结构，否定词 not 放在 to 前。",
-        "现在分词作补充：'including a rule...' 中 including 为现在分词，引出被包含的补充说明内容。",
-        "系表结构：'AIs are notoriously literal and ruthless' 中 are 为系动词，后接形容词 literal、ruthless，notoriously 为副词修饰形容词。",
-        "动名词作宾语：'avoid being shut down' 中 avoid 后接动名词 being shut down（被动语态的动名词形式）。"
+        "现在完成时（has debated）：\"Washington has debated adopting statewide rules\" 用现在完成时表示动作从过去持续到现在，强调长期讨论。",
+        "时间状语从句（When...）：\"When two different wildfires threatened Dave Kokot’s house\" 用 when 引导时间状语从句，主句用一般过去时叙述过去事件。",
+        "介词短语 instead of：\"materials, instead of wood\" 中 instead of 表示“而不是”，引出对比对象。",
+        "现在完成进行时（has been developing）：\"Washington has been developing new wildfire safety regulations\" 强调从过去持续到现在且仍在进行。",
+        "一般过去时并列：\"state legislators backtracked and repealed some of the requirements\" 用 and 连接两个过去动作。",
+        "现在完成时（have struggled）：\"Other Western states have also struggled to pass...\" 表示过去到现在一直存在的困难状态。",
+        "动词不定式作目的状语：\"to manage flammable vegetation to create defensible space\" 中两个 to do 分别表目的。"
       ]
     },
     {
       "id": "news-2",
-      "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-      "source": "NPR Health",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-      "summary": "美国正经历夏季 COVID-19 小高峰，但病毒水平仍低、症状逐年趋缓；专家提醒老人、婴儿和免疫力低下人群仍须警惕，并及时接种疫苗。",
-      "category": "健康",
+      "title": "A pizza-sized ocean predator and a tribe are trying to protect each other",
+      "source": "NPR Science",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
+      "summary": "向日葵海星因一场“海洋大瘟疫”几近灭绝，华盛顿大学与萨米什部落联手人工繁育并放归，试图让这一关键物种重归太平洋。",
+      "category": "科学",
       "sentences": [
-        { "en": "Americans have plenty to worry about this summer.", "zh": "今年夏天，美国人有很多值得担忧的事。" },
-        { "en": "But remember COVID-19?", "zh": "但还记得 COVID-19 吗？" },
-        { "en": "It may not be surprising that many people may have almost forgotten about COVID.", "zh": "许多人几乎已经忘了新冠，这或许并不奇怪。" },
-        { "en": "Unfortunately, COVID hasn't forgotten about us.", "zh": "不幸的是，新冠并没有忘记我们。" },
-        { "en": "We're now in the midst of a growing summer surge of COVID here in the United States, says Dr. John Brooks.", "zh": "约翰·布鲁克斯医生说，美国目前正处于一轮不断加剧的夏季新冠高峰之中。" },
-        { "en": "The virus is spreading the most again in the South and West, but is also on the rise in the Northeast and Midwest.", "zh": "病毒在南部和西部再度大面积传播，在东北部和中部地区也呈上升趋势。" },
-        { "en": "The good news is the virus is still at very low levels.", "zh": "好消息是，病毒目前的水平仍然很低。" },
-        { "en": "More and more people have had one or more infections that give them some immunity against the virus.", "zh": "越来越多的人曾感染过一次或多次，从而获得了一定程度的免疫力。" },
-        { "en": "The disease still makes lots of people feel awful for a week or two.", "zh": "这种疾病仍会让许多人在一两周内感到非常难受。" },
-        { "en": "COVID can still cause serious disease for some people, sending them to emergency rooms.", "zh": "对有些人，新冠仍可能引发重症，把他们送进急诊室。" },
-        { "en": "COVID-19 is still dangerous, particularly for older adults, infants and people who are immunocompromised.", "zh": "新冠仍然危险，尤其对老年人、婴儿以及免疫力低下的人群。" }
+        {
+          "en": "Sunflower stars are one of the Pacific Ocean’s most endangered sea creatures.",
+          "zh": "向日葵海星是太平洋中最濒危的海洋生物之一。"
+        },
+        {
+          "en": "For the past year, University of Washington researchers have worked closely with the Samish Indian Nation to bring this 24-armed creature back from the brink of extinction.",
+          "zh": "过去一年里，华盛顿大学的研究人员与萨米什印第安民族密切合作，试图让这种有 24 条腕足的生物免于灭绝。"
+        },
+        {
+          "en": "A vast underwater pandemic nearly wiped it out.",
+          "zh": "一场大规模的水下瘟疫几乎将它消灭殆尽。"
+        },
+        {
+          "en": "A team of divers crammed into the cabin as the small craft bounced and slammed across Rosario Strait.",
+          "zh": "当小船在罗萨里奥海峡上颠簸穿行时，一组潜水员挤在船舱里。"
+        },
+        {
+          "en": "They were on their way to pick up precious cargo: 20 endangered sunflower stars, raised by hand in a lab.",
+          "zh": "他们正前往取走珍贵的“货物”：20 只濒危的向日葵海星，是在实验室里人工养育的。"
+        },
+        {
+          "en": "The stars were supposed to be turned loose last October.",
+          "zh": "这些海星原本应该在去年十月被放归大海。"
+        },
+        {
+          "en": "Then divers found the deadly sea-star wasting disease surging throughout the San Juans.",
+          "zh": "后来潜水员发现致命的“海星萎缩病”在圣胡安群岛肆虐。"
+        },
+        {
+          "en": "Sunflower stars can grow more than 3 feet wide and are the fastest of all sea stars.",
+          "zh": "向日葵海星可以长到超过 3 英尺宽，是所有海星中速度最快的。"
+        },
+        {
+          "en": "They’re considered a keystone species, whose presence or absence can reshape a whole ecosystem.",
+          "zh": "它们被视为关键物种，它们的存在与否能够重塑整个生态系统。"
+        },
+        {
+          "en": "But the speedy predators have been unable to outrun a wasting disease that’s killed billions of sea stars.",
+          "zh": "但这些敏捷的捕食者却没能跑赢那种已经杀死数十亿只海星的萎缩病。"
+        },
+        {
+          "en": "It took researchers a decade to pinpoint the Vibrio bacteria behind the disease.",
+          "zh": "研究人员花了十年时间才查明导致这种疾病的弧菌属细菌。"
+        }
       ],
       "vocab": [
-        { "word": "surge", "pos": "n.", "zh": "激增；猛涨" },
-        { "word": "infectious", "pos": "adj.", "zh": "传染性的" },
-        { "word": "immunity", "pos": "n.", "zh": "免疫力" },
-        { "word": "vaccination", "pos": "n.", "zh": "疫苗接种" },
-        { "word": "immunocompromised", "pos": "adj.", "zh": "免疫力低下的" },
-        { "word": "epidemiologist", "pos": "n.", "zh": "流行病学家" },
-        { "word": "respiratory", "pos": "adj.", "zh": "呼吸系统的" },
-        { "word": "circulate", "pos": "v.", "zh": "传播；流通" },
-        { "word": "strain", "pos": "n.", "zh": "毒株；菌株" },
-        { "word": "mild", "pos": "adj.", "zh": "轻微的" },
-        { "word": "parasite", "pos": "n.", "zh": "寄生虫" },
-        { "word": "outbreak", "pos": "n.", "zh": "（疾病）爆发" }
+        {
+          "word": "endangered",
+          "pos": "adj.",
+          "zh": "濒危的"
+        },
+        {
+          "word": "predator",
+          "pos": "n.",
+          "zh": "捕食者；掠食动物"
+        },
+        {
+          "word": "creature",
+          "pos": "n.",
+          "zh": "生物；动物"
+        },
+        {
+          "word": "extinction",
+          "pos": "n.",
+          "zh": "灭绝"
+        },
+        {
+          "word": "pandemic",
+          "pos": "n.",
+          "zh": "大流行；瘟疫"
+        },
+        {
+          "word": "diver",
+          "pos": "n.",
+          "zh": "潜水员"
+        },
+        {
+          "word": "cargo",
+          "pos": "n.",
+          "zh": "货物"
+        },
+        {
+          "word": "keystone",
+          "pos": "adj.",
+          "zh": "关键的（keystone species 关键物种）"
+        },
+        {
+          "word": "ecosystem",
+          "pos": "n.",
+          "zh": "生态系统"
+        },
+        {
+          "word": "bacteria",
+          "pos": "n.",
+          "zh": "细菌"
+        },
+        {
+          "word": "pinpoint",
+          "pos": "v.",
+          "zh": "查明；精准定位"
+        },
+        {
+          "word": "brink",
+          "pos": "n.",
+          "zh": "边缘（brink of extinction 灭绝边缘）"
+        }
       ],
       "grammar": [
-        "现在完成时（haven't forgotten）：'COVID hasn't forgotten about us' 用现在完成时表示从过去持续到现在的状态，此处为拟人化修辞。",
-        "直接引语：'We're now in the midst...,' says Dr. John Brooks.' 引语在前、说话人在后，注意引语内用现在进行时表示当前情况。",
-        "现在进行时表趋势：'The virus is spreading the most again' 描述现阶段正在发生的变化。",
-        "比较级叠加：'More and more people have had...' 中“比较级 + and + 比较级”表示“越来越……”。",
-        "现在分词作结果状语：'sending them to emergency rooms' 现在分词短语表示动作带来的自然结果。",
-        "非限制性定语从句：'unlike the flu, which only surges during the winter' 中 which 引导非限制性定语从句，补充说明 flu。",
-        "定语从句：'people who are immunocompromised' 中 who 引导定语从句修饰 people，immunocompromised 为过去分词作表语。"
+        "现在完成时（have worked）：\"researchers have worked closely with...\" 强调从过去持续到现在并可能继续的合作。",
+        "动词不定式作目的：\"to bring this creature back from the brink of extinction\" 中 to do 表目的。",
+        "一般过去时：\"A vast underwater pandemic nearly wiped it out\" 叙述已发生的事实。",
+        "过去分词作后置定语：\"raised by hand in a lab\" 过去分词短语修饰 stars，表被动。",
+        "最高级 + of 短语：\"the fastest of all sea stars\" 用最高级加 of 表示比较范围。",
+        "关系代词 whose 引导定语从句：\"a keystone species, whose presence or absence can reshape...\" whose 在从句中作定语。",
+        "现在完成时（have been unable）：\"the speedy predators have been unable to outrun...\" 表示到现在为止一直无法做到。"
       ]
     },
     {
       "id": "news-3",
-      "title": "We learned 5 important things about the economy this week",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
-      "summary": "本周经济数据喜忧参半：通胀放缓、物价微涨，但工资增长跟不上物价，零售销售数月来首降，家庭开支更趋谨慎。",
-      "category": "商业",
+      "title": "Meta heads to court in a landmark trial about kids and social media addiction",
+      "source": "NPR Tech",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
+      "summary": "四个州联合起诉 Meta，指控其社交平台被刻意设计成让儿童上瘾，并隐瞒对青少年心理健康的危害；案件或成科技问责里程碑。",
+      "category": "健康",
       "sentences": [
-        { "en": "How is inflation showing up on supermarket shelves and at the gas pump?", "zh": "通胀是如何在超市货架和加油站体现出来的？" },
-        { "en": "These were among some of the insights delivered this week about the economy.", "zh": "这些是本周关于经济的一些洞察中的一部分。" },
-        { "en": "A government report on Wednesday showed us prices are climbing more slowly than they were a few months ago.", "zh": "周三的一份政府报告显示，物价上涨的速度比几个月前放缓了。" },
-        { "en": "Inflation is still high, with the cost of living up 3.4% from a year ago.", "zh": "通胀仍然高企，生活成本较一年前上涨了 3.4%。" },
-        { "en": "From June to July, consumer prices rose just 0.1%, according to new federal data.", "zh": "根据新的联邦数据，6 月到 7 月，消费者价格仅上涨了 0.1%。" },
-        { "en": "The cost of groceries actually dipped slightly between June and July.", "zh": "食品杂货的价格在 6 月到 7 月间实际上略有下降。" },
-        { "en": "Gasoline prices fell a bit in July, but they're still up nearly 25% from a year ago.", "zh": "汽油价格在 7 月跌了一点，但较一年前仍高出近 25%。" },
-        { "en": "While inflation has cooled in recent months, so have workers' pay raises.", "zh": "近几个月通胀有所降温，工人的加薪幅度也同样放缓了。" },
-        { "en": "Average wages rose 3.2% in the past year.", "zh": "过去一年，平均工资上涨了 3.2%。" },
-        { "en": "Wages are once again not keeping pace with inflation.", "zh": "工资再次跟不上通胀的步伐。" },
-        { "en": "Retail sales declined in July for the first time in months, down 0.6% from June.", "zh": "7 月零售销售额出现数月来首次下降，较 6 月减少 0.6%。" }
+        {
+          "en": "Meta will head into federal court on Tuesday to fend off accusations that it designed its social media platforms to hook children.",
+          "zh": "Meta 将于周二走进联邦法院，以反驳有关其社交平台被设计成诱使儿童上瘾的指控。"
+        },
+        {
+          "en": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids.",
+          "zh": "四个州正在起诉 Facebook 和 Instagram 的母公司，指控这些平台被设计成让儿童上瘾。"
+        },
+        {
+          "en": "The case is the latest in a wave of suits against social media companies, meant to hold them accountable for the way they design their products.",
+          "zh": "这起案件是针对社交媒体公司的一系列诉讼中的最新一桩，旨在让它们为其产品设计方式负责。"
+        },
+        {
+          "en": "Legal experts compare it to landmark litigation against tobacco and opioid manufacturers.",
+          "zh": "法律专家将其比作针对烟草和阿片类制药商的标志性诉讼。"
+        },
+        {
+          "en": "Four states are seeking up to $1.4 trillion in penalties and product changes under consumer protection laws.",
+          "zh": "四个州依据消费者权益保护法律，要求高达 1.4 万亿美元的罚款并要求其改变产品。"
+        },
+        {
+          "en": "They say Meta also violated the Children’s Online Privacy Protection Act by hoovering up data about children.",
+          "zh": "它们表示，Meta 还通过大肆收集儿童数据，违反了《儿童在线隐私保护法》。"
+        },
+        {
+          "en": "“They’re putting the profits over the health of a generation of young people,” said New Jersey Attorney General Jennifer Davenport.",
+          "zh": "新泽西州总检察长詹妮弗·达文波特说：“他们把利润置于一代年轻人的健康之上。”"
+        },
+        {
+          "en": "One of the suit’s central arguments is that Meta designed features to capture young users’ attention and prolong their time on social media.",
+          "zh": "诉讼的一个核心论点是，Meta 设计了各种功能来抓住年轻用户的注意力，并延长他们在社交媒体上的时间。"
+        },
+        {
+          "en": "The lawsuit alleges that Meta prioritized engagement over young users’ safety, creating products that disrupted their education and sleep.",
+          "zh": "诉讼指控 Meta 把用户参与度置于年轻用户的安全之上，制造出扰乱他们学业和睡眠的产品。"
+        },
+        {
+          "en": "The lawsuit also alleges that Meta knew children under 13 were on Instagram and Facebook.",
+          "zh": "诉讼还指控 Meta 明知有 13 岁以下儿童在使用 Instagram 和 Facebook。"
+        },
+        {
+          "en": "Social media companies have enjoyed some immunity from lawsuits because they are protected by the First Amendment.",
+          "zh": "社交媒体公司在一定程度上免于诉讼，因为它们受到第一修正案的保护。"
+        }
       ],
       "vocab": [
-        { "word": "inflation", "pos": "n.", "zh": "通货膨胀" },
-        { "word": "consumer", "pos": "n.", "zh": "消费者" },
-        { "word": "grocery", "pos": "n.", "zh": "食品杂货" },
-        { "word": "gasoline", "pos": "n.", "zh": "汽油" },
-        { "word": "retail", "pos": "n.", "zh": "零售" },
-        { "word": "wage", "pos": "n.", "zh": "工资；薪金" },
-        { "word": "annual", "pos": "adj.", "zh": "年度的" },
-        { "word": "dip", "pos": "v.", "zh": "下降；下跌" },
-        { "word": "spark", "pos": "v.", "zh": "引发；触发" },
-        { "word": "splurge", "pos": "v.", "zh": "挥霍；大手大脚花钱" },
-        { "word": "rut", "pos": "n.", "zh": "困境；停滞" },
-        { "word": "household", "pos": "n.", "zh": "家庭" }
+        {
+          "word": "allegation",
+          "pos": "n.",
+          "zh": "指控；宣称"
+        },
+        {
+          "word": "hook",
+          "pos": "v.",
+          "zh": "吸引；使上瘾"
+        },
+        {
+          "word": "lawsuit",
+          "pos": "n.",
+          "zh": "诉讼；官司"
+        },
+        {
+          "word": "accountability",
+          "pos": "n.",
+          "zh": "问责；责任"
+        },
+        {
+          "word": "litigation",
+          "pos": "n.",
+          "zh": "诉讼；打官司"
+        },
+        {
+          "word": "penalty",
+          "pos": "n.",
+          "zh": "罚款；处罚"
+        },
+        {
+          "word": "violate",
+          "pos": "v.",
+          "zh": "违反；侵犯"
+        },
+        {
+          "word": "consent",
+          "pos": "n.",
+          "zh": "同意；许可"
+        },
+        {
+          "word": "engagement",
+          "pos": "n.",
+          "zh": "参与度；互动"
+        },
+        {
+          "word": "compulsive",
+          "pos": "adj.",
+          "zh": "强迫性的；难以抑制的"
+        },
+        {
+          "word": "dysmorphia",
+          "pos": "n.",
+          "zh": "形体障碍（body dysmorphia 体象障碍）"
+        },
+        {
+          "word": "immunity",
+          "pos": "n.",
+          "zh": "豁免；免责"
+        }
       ],
       "grammar": [
-        "现在进行时表渐进：'prices are climbing more slowly' 用进行时表示现阶段持续的变化过程。",
-        "with 复合结构：'Inflation is still high, with the cost of living up 3.4%' 中 with + 宾语 + 副词/形容词，作伴随状语补充说明。",
-        "比较级：'prices are climbing more slowly than they were a few months ago' 用 than 引导比较状语从句。",
-        "'so + 助动词 + 主语' 倒装：'so have workers' pay raises' 表示“……也一样”，避免重复前文。",
-        "现在完成时：'inflation has cooled' 强调过去动作对现在造成的影响（通胀已降温）。",
-        "动名词：'thanks to gas prices dipping' 中 dipping 为动名词，作介词 thanks to 的宾语。",
-        "介词表对比基准：'up 3.4% from a year ago' 与 'down 0.6% from June' 用 from 引出对比的时间/数值基准。"
+        "动词不定式作目的：\"to fend off accusations\" 中 to do 表目的。",
+        "that 引导同位语从句：\"accusations that it designed its platforms to hook children\" 中 that 引导同位语从句，解释 accusations 的内容。",
+        "过去分词作后置定语：\"meant to hold them accountable\" 中 meant 是过去分词作定语修饰 case。",
+        "现在分词作结果状语：\"creating products that disrupted their education and sleep\" 现在分词短语表结果。",
+        "比较结构：\"compare it to landmark litigation\" 用 compare A to B 结构。",
+        "介词短语：\"putting the profits over the health\" 中 put A over B 表示“把 A 置于 B 之上”。",
+        "because 引导原因状语从句：\"because they are protected by the First Amendment\" 为被动语态的原因从句。"
       ]
     },
     {
       "id": "news-4",
-      "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
-      "summary": "从日本破纪录暴雨到欧洲第五波热浪，亚欧多地遭遇极端天气冲击，已造成伤亡与大规模疏散，气候变暖正让灾害更频繁剧烈。",
-      "category": "世界",
+      "title": "Missed shifts were costly to this McDonald’s. An app has fixed the problem",
+      "source": "NPR Tech",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+      "summary": "一家麦当劳门店用一款员工支持 App 解决临时交通、托育等难题，帮没有车的年轻人按时上班，显著降低旷工带来的损失。",
+      "category": "科技",
       "sentences": [
-        { "en": "In Japan, record-breaking rains outside the capital Tokyo on Friday led to widespread flooding and at least eight deaths.", "zh": "在日本，周五东京周边破纪录的降雨引发了大范围洪灾，并造成至少 8 人死亡。" },
-        { "en": "The overnight rains also knocked out transportation during the peak of holiday travel season.", "zh": "夜间降雨还在假日出行高峰期间破坏了交通。" },
-        { "en": "Some parts of Chiba prefecture saw three times more rain in half a day than they usually see for the whole month of August.", "zh": "千叶县部分地区半天的降雨量，是往年整个 8 月降雨量的三倍。" },
-        { "en": "Evacuation orders were issued for more than 100,000 residents.", "zh": "超过 10 万居民接到了疏散命令。" },
-        { "en": "More than 20,000 households lost power.", "zh": "逾 2 万户家庭断电。" },
-        { "en": "Trains and highways were shut down, and thousands of travelers were stranded at Narita International Airport.", "zh": "火车和高速公路被关闭，数千名旅客被困在成田国际机场。" },
-        { "en": "In Europe, the intense temperatures this week are affecting some 300 million people.", "zh": "在欧洲，本周的极端高温正影响着约 3 亿人。" },
-        { "en": "Europe is warming twice as fast as any other continent.", "zh": "欧洲的变暖速度是其他任何大陆的两倍。" },
-        { "en": "In France, Italy and Spain, some 92 million people are sweltering in temperatures exceeding 95 degrees Fahrenheit.", "zh": "在法国、意大利和西班牙，约 9200 万人在超过 95 华氏度的高温下备受煎熬。" },
-        { "en": "The latest blast of extreme heat comes just a week after France and Spain faced some of the worst wildfires they have ever dealt with.", "zh": "这一波极端高温来袭，距离法国和西班牙遭遇史上最严重野火仅过去一周。" },
-        { "en": "Those fires were brought on by the heat and intense drought.", "zh": "那些野火是由高温和严重干旱引发的。" }
+        {
+          "en": "Unexpected absences can cost employers tens of thousands of dollars a month.",
+          "zh": "意外的缺勤每月可能让雇主损失数万美元。"
+        },
+        {
+          "en": "The new high school graduate has been at this job for about a month.",
+          "zh": "这名刚高中毕业的新员工已经在这里工作大约一个月了。"
+        },
+        {
+          "en": "It’s his first job ever — and so far, so good.",
+          "zh": "这是他有生以来的第一份工作——到目前为止，一切顺利。"
+        },
+        {
+          "en": "Velasquez Ramos doesn’t have a car, and getting here by bus isn’t easy.",
+          "zh": "贝拉斯克斯·拉莫斯没有车，而坐公交车来这里并不容易。"
+        },
+        {
+          "en": "But when no one’s been available, he’s turned to Escalate, a startup that began piloting its employee support app.",
+          "zh": "但当找不到人接送时，他转而求助于 Escalate——一家开始试点其员工支持 App 的初创公司。"
+        },
+        {
+          "en": "Through the app, he’s been able to quickly get a voucher for an Uber, which gets him to work on time.",
+          "zh": "通过这个 App，他能够迅速拿到一张优步打车券，从而准时到达工作岗位。"
+        },
+        {
+          "en": "Escalate is the brainchild of Sienna Daniel and Sean Segal, two veterans of the nonprofit world.",
+          "zh": "Escalate 是西耶娜·丹尼尔和肖恩·西格尔的创意，两人都是非营利领域的老将。"
+        },
+        {
+          "en": "For years, they focused on helping unemployed and underemployed people gain the skills needed to land jobs.",
+          "zh": "多年来，他们专注于帮助失业和就业不足的人获得找到工作所需的技能。"
+        },
+        {
+          "en": "But they saw that workers kept battling the same practical problems.",
+          "zh": "但他们发现，工人们一直在与同样的现实问题作斗争。"
+        },
+        {
+          "en": "Cars broke down. Childcare fell through. Absences piled up, and people could not hang onto their jobs.",
+          "zh": "汽车抛锚，托育落空，缺勤越积越多，人们因而保不住工作。"
+        },
+        {
+          "en": "“Opportunities might be there, but if they aren’t stabilized, there’s a problem,” says Daniel.",
+          "zh": "丹尼尔说：“机会也许就在那里，但如果他们无法稳定下来，就会出现问题。”"
+        }
       ],
       "vocab": [
-        { "word": "widespread", "pos": "adj.", "zh": "广泛的；大范围的" },
-        { "word": "evacuation", "pos": "n.", "zh": "疏散；撤离" },
-        { "word": "strand", "pos": "v.", "zh": "使滞留；使搁浅" },
-        { "word": "heatwave", "pos": "n.", "zh": "热浪" },
-        { "word": "wildfire", "pos": "n.", "zh": "野火" },
-        { "word": "drought", "pos": "n.", "zh": "干旱" },
-        { "word": "restriction", "pos": "n.", "zh": "限制；管制" },
-        { "word": "swelter", "pos": "v.", "zh": "（在酷热中）备受煎熬" },
-        { "word": "prefecture", "pos": "n.", "zh": "（日本）县" },
-        { "word": "atmospheric", "pos": "adj.", "zh": "大气的" },
-        { "word": "record-breaking", "pos": "adj.", "zh": "破纪录的" },
-        { "word": "resident", "pos": "n.", "zh": "居民" }
+        {
+          "word": "absence",
+          "pos": "n.",
+          "zh": "缺勤；缺席"
+        },
+        {
+          "word": "employer",
+          "pos": "n.",
+          "zh": "雇主"
+        },
+        {
+          "word": "graduate",
+          "pos": "n.",
+          "zh": "毕业生"
+        },
+        {
+          "word": "voucher",
+          "pos": "n.",
+          "zh": "代金券；优惠券"
+        },
+        {
+          "word": "startup",
+          "pos": "n.",
+          "zh": "初创公司"
+        },
+        {
+          "word": "brainchild",
+          "pos": "n.",
+          "zh": "创意；构想"
+        },
+        {
+          "word": "nonprofit",
+          "pos": "adj.",
+          "zh": "非营利的（组织）"
+        },
+        {
+          "word": "underemployed",
+          "pos": "adj.",
+          "zh": "就业不足的"
+        },
+        {
+          "word": "childcare",
+          "pos": "n.",
+          "zh": "儿童看护；托育"
+        },
+        {
+          "word": "stabilize",
+          "pos": "v.",
+          "zh": "使稳定"
+        },
+        {
+          "word": "fellowship",
+          "pos": "n.",
+          "zh": "奖学金；研究员职位"
+        },
+        {
+          "word": "personable",
+          "pos": "adj.",
+          "zh": "友善的；风度好的"
+        }
       ],
       "grammar": [
-        "一般过去时叙述新闻：'led to widespread flooding'、'knocked out transportation' 用一般过去时报道已发生的事实。",
-        "倍数比较级：'three times more rain ... than they usually see' 用“倍数 + 比较级 + than”结构。",
-        "被动语态（过去时）：'Evacuation orders were issued'、'Trains and highways were shut down' 强调动作承受者。",
-        "现在进行时表当前状况：'the intense temperatures this week are affecting some 300 million people'。",
-        "同级比较 'as ... as'：'twice as fast as any other continent' 表示“是……的两倍”。",
-        "现在完成时：'faced some of the worst wildfires they have ever dealt with' 中 have ever dealt with 强调至今的经历。",
-        "被动 + 介词：'Those fires were brought on by the heat and intense drought' 中 be brought on by 表示“由……引起”。"
+        "情态动词（can cost）：\"Unexpected absences can cost employers...\" 中 can 表示“可能”，表客观可能性。",
+        "现在完成时（has been at）：\"has been at this job for about a month\" 用现在完成时加 for 时间段，表示持续到现在的状态。",
+        "现在完成时（hasn’t been available）：\"when no one’s been available\" 表示到现在为止一直未出现。",
+        "定语从句：\"a startup that began piloting its employee support app\" 用 that 引导定语从句修饰 startup。",
+        "非限制性定语从句：\"a voucher for an Uber, which gets him to work on time\" which 引导非限制性定语从句。",
+        "过去分词作后置定语：\"the skills needed to land jobs\" 中 needed 为过去分词作后置定语修饰 skills。",
+        "并列短句：\"Cars broke down. Childcare fell through.\" 多个一般过去时短句并列，叙述一连串事件。"
       ]
     },
     {
       "id": "news-5",
-      "title": "As speed cameras spread, so does the backlash from drivers",
-      "source": "NPR News",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
-      "summary": "美国多州开始在学校周边安装自动测速摄像头，支持者称其显著降低车速、挽救生命，但不少司机质疑这是“敛财”，反弹声浪渐起。",
-      "category": "生活",
+      "title": "Anthropic’s new invisible watermark marks content generated by AI chatbot Claude",
+      "source": "NPR Tech",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5928211/anthropics-new-invisible-watermark-marks-content-generated-by-ai-chatbot-claude",
+      "summary": "Anthropic 为旗下 AI 助手 Claude 的新模型加入隐形水印，以符合欧盟《人工智能法案》；这项技术能在 AI 生成文本中留下肉眼不可见的标记，便于溯源。",
+      "category": "科技",
       "sentences": [
-        { "en": "If you've driven in Florida recently, you may have seen the speed cameras springing up in school zones across the state.", "zh": "如果你最近在佛罗里达开过车，可能已看到全州各地的学校周边冒出了测速摄像头。" },
-        { "en": "I think it's a money grab, Acosta said.", "zh": "阿科斯塔说：“我觉得这就是在捞钱。”" },
-        { "en": "Millions of drivers across the country are encountering automated speed cameras for the first time.", "zh": "全国数百万司机正第一次遇到自动测速摄像头。" },
-        { "en": "Safety advocates say there's clear evidence that these cameras work to make roads safer.", "zh": "安全倡导者表示，有明确证据表明这些摄像头确实让道路更安全。" },
-        { "en": "But there's also a growing backlash from drivers in Florida and beyond.", "zh": "但佛罗里达及以外地区的司机中也出现了越来越强烈的反对声浪。" },
-        { "en": "Drivers like Acosta worked in the Miami-Dade Sheriff's Office for 27 years before retiring.", "zh": "像阿科斯塔这样的司机，退休前在迈阿密-戴德警长办公室工作了 27 年。" },
-        { "en": "Florida recently joined the growing list of states where speed cameras are allowed.", "zh": "佛罗里达最近加入了允许使用测速摄像头的州之列，这类州越来越多。" },
-        { "en": "They're now legal in more than two dozen states.", "zh": "目前它们已在二十多个州合法化。" },
-        { "en": "In general, safety advocates say these cameras are working, and saving lives by forcing drivers to slow down.", "zh": "总体而言，安全倡导者认为这些摄像头正在发挥作用，并通过迫使司机减速来挽救生命。" },
-        { "en": "Avelar points to multiple studies that show cameras can cut speeding by 70% or more.", "zh": "阿维拉尔援引多项研究指出，摄像头能将超速行为减少 70% 甚至更多。" },
-        { "en": "One study in Maryland found speed cameras reduced the likelihood of serious injury by 39%.", "zh": "马里兰州的一项研究发现，测速摄像头使重伤的可能性降低了 39%。" }
+        {
+          "en": "Anthropic is adding an invisible watermark to new models of its AI assistant Claude.",
+          "zh": "Anthropic 正在为其 AI 助手 Claude 的新模型加入隐形水印。"
+        },
+        {
+          "en": "The change brings Claude into compliance with the European Union’s AI Act.",
+          "zh": "这一改动使 Claude 符合欧盟的《人工智能法案》。"
+        },
+        {
+          "en": "It will be applied worldwide.",
+          "zh": "它将面向全球应用。"
+        },
+        {
+          "en": "AI-generated text has been traditionally pretty hard to watermark, especially compared to images.",
+          "zh": "传统上，给 AI 生成的文本加水印相当困难，尤其是与图像相比。"
+        },
+        {
+          "en": "Most AI-generated or AI-modified images already carry a type of watermark.",
+          "zh": "大多数 AI 生成或 AI 修改过的图像已经带有某种水印。"
+        },
+        {
+          "en": "Previously, the best we’ve had for text is these probability checkers that make an assessment on how likely something is to be AI-generated.",
+          "zh": "此前，我们在文本方面最好的手段是这些概率检测工具，它们会评估某段文字有多大可能是 AI 生成的。"
+        },
+        {
+          "en": "They explained over the weekend how it’s going to work.",
+          "zh": "他们在上周末解释了它将如何运作。"
+        },
+        {
+          "en": "When AI writes a sentence, it’s not just spitting out words.",
+          "zh": "当 AI 写一句话时，它并不只是在吐出词语。"
+        },
+        {
+          "en": "It’s making a tiny decision based on pattern prediction after every single word about what word comes next.",
+          "zh": "它在每一个词之后，都基于模式预测对“下一个词是什么”做一个微小的决定。"
+        },
+        {
+          "en": "A lot of the time, there are several words that could work equally well.",
+          "zh": "很多时候，会有好几个词同样适用。"
+        },
+        {
+          "en": "Whenever the AI makes a decision like this, Anthropic is going to be adding a mark.",
+          "zh": "每当 AI 做出这样的决定时，Anthropic 就会添加一个标记。"
+        }
       ],
       "vocab": [
-        { "word": "camera", "pos": "n.", "zh": "摄像头（此处指测速摄像头）" },
-        { "word": "backlash", "pos": "n.", "zh": "强烈反对；反弹" },
-        { "word": "advocate", "pos": "n.", "zh": "倡导者；支持者" },
-        { "word": "automated", "pos": "adj.", "zh": "自动化的" },
-        { "word": "citation", "pos": "n.", "zh": "罚单；传票" },
-        { "word": "illegal", "pos": "adj.", "zh": "非法的" },
-        { "word": "likelihood", "pos": "n.", "zh": "可能性" },
-        { "word": "encounter", "pos": "v.", "zh": "遇到；遭遇" },
-        { "word": "suburb", "pos": "n.", "zh": "郊区" },
-        { "word": "spring up", "pos": "phr.v.", "zh": "迅速出现；涌现" },
-        { "word": "reduce", "pos": "v.", "zh": "减少；降低" },
-        { "word": "enforce", "pos": "v.", "zh": "强制执行；实施" }
+        {
+          "word": "watermark",
+          "pos": "n.",
+          "zh": "水印"
+        },
+        {
+          "word": "assistant",
+          "pos": "n.",
+          "zh": "助手"
+        },
+        {
+          "word": "compliance",
+          "pos": "n.",
+          "zh": "合规；遵守"
+        },
+        {
+          "word": "traditional",
+          "pos": "adj.",
+          "zh": "传统的"
+        },
+        {
+          "word": "assessment",
+          "pos": "n.",
+          "zh": "评估；评定"
+        },
+        {
+          "word": "prediction",
+          "pos": "n.",
+          "zh": "预测"
+        },
+        {
+          "word": "pattern",
+          "pos": "n.",
+          "zh": "模式；规律"
+        },
+        {
+          "word": "invisible",
+          "pos": "adj.",
+          "zh": "隐形的；不可见的"
+        },
+        {
+          "word": "identify",
+          "pos": "v.",
+          "zh": "识别；辨认"
+        },
+        {
+          "word": "algorithm",
+          "pos": "n.",
+          "zh": "算法"
+        },
+        {
+          "word": "embedded",
+          "pos": "adj.",
+          "zh": "嵌入的"
+        },
+        {
+          "word": "probability",
+          "pos": "n.",
+          "zh": "概率"
+        }
       ],
       "grammar": [
-        "现在完成时：'If you've driven in Florida recently' 用现在完成时表示过去动作与现在的关联。",
-        "现在分词作宾补：'seen the speed cameras springing up' 用 see + 宾语 + doing 表示看到动作正在进行。",
-        "直接引语：'I think it's a money grab,' Acosta said.' 说话人在后，注意逗号置于引号内、said 后不用句号。",
-        "定语从句：'the growing list of states where speed cameras are allowed' 用 where 引导定语从句修饰地点名词 states。",
-        "现在进行时表趋势：'these cameras are working, and saving lives' 表现阶段持续的状态。",
-        "'by + 动名词' 表方式：'saving lives by forcing drivers to slow down' 中 by doing 表示通过某种方式。",
-        "百分比表幅度：'cut speeding by 70%' 与 'reduced ... by 39%' 用 by + 百分比表示变化的幅度。"
+        "现在进行时表将来安排：\"Anthropic is adding an invisible watermark\" 用现在进行时表示已计划、即将发生的动作。",
+        "介词短语 into compliance with：\"brings Claude into compliance with the AI Act\" 中 into compliance with 表示“符合……”。",
+        "现在完成时被动（has been...hard to watermark）：\"AI-generated text has been traditionally pretty hard to watermark\" 现在完成时被动，描述长期状况。",
+        "定语从句：\"these probability checkers that make an assessment\" 用 that 引导定语从句。",
+        "时间状语从句（When...）：\"When AI writes a sentence, it’s not just spitting out words\" when 引导时间状语从句，主句用现在进行时。",
+        "过去分词短语作定语：\"based on pattern prediction\" 过去分词短语作后置定语修饰 decision。",
+        "there be 句型 + 定语从句：\"there are several words that could work equally well\" 中 that 引导定语从句，could 表可能性。"
       ]
     },
     {
       "id": "news-6",
-      "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
-      "source": "NPR Science",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
-      "summary": "美国推动核电复兴、重启本土铀矿开采，但唯一仍在运转的铀矿碾磨厂正引发原住民部落对放射性污染饮用水的新忧虑。",
-      "category": "环境",
+      "title": "Why some companies are paying more than $1 million to get through the Panama Canal",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5929414/why-some-companies-are-paying-more-than-1-million-to-get-through-the-panama-canal",
+      "summary": "霍尔木兹海峡实际上关闭，加上水位下降，巴拿马运河通行费暴涨；部分公司单次过闸要付逾百万美元，成本最终会转嫁到消费者身上、推高通胀。",
+      "category": "商业",
       "sentences": [
-        { "en": "On a hot April day, Malcolm Lehi maneuvered his Jeep Wrangler over a rough dirt road.", "zh": "四月的一个热天，马尔科姆·莱希驾驶他的吉普牧马人驶过一条崎岖的土路。" },
-        { "en": "The cool, mossy spring lies just across the highway from White Mesa Mill, the nation's only remaining conventional uranium mill.", "zh": "那眼清凉长满青苔的泉水，就在公路对面、白台铀矿碾磨厂的旁边，那是全美仅存的传统铀矿碾磨厂。" },
-        { "en": "For decades, the mill has sparked debate over whether radioactive contamination threatens human health.", "zh": "几十年来，这家工厂一直引发争议：放射性污染是否会威胁人类健康。" },
-        { "en": "Concerns run especially deep in the White Mesa Ute Community.", "zh": "在白台尤特族社区，人们的担忧尤其深重。" },
-        { "en": "Many won't drink the local water, relying on bottled water instead.", "zh": "许多人拒绝饮用当地的水，转而依赖瓶装水。" },
-        { "en": "Now the tribe's concerns have taken on new urgency as the U.S. pushes to revive domestic uranium production.", "zh": "如今，随着美国推动重启本土铀矿生产，该部落的担忧变得更加紧迫。" },
-        { "en": "A federal law bans imports of Russian uranium by 2028.", "zh": "一项联邦法律将在 2028 年前禁止进口俄罗斯铀。" },
-        { "en": "Trump set a goal to quadruple U.S. nuclear energy capacity by 2050.", "zh": "特朗普设定了到 2050 年将美国核能产能翻两番的目标。" },
-        { "en": "Data centers and rising electricity demand have intensified interest in nuclear power as a low-carbon energy source.", "zh": "数据中心和不断增长的用电需求，加剧了对核能这一低碳能源的兴趣。" },
-        { "en": "The White Mesa Mill is a focal point of this latest uranium boom.", "zh": "白台碾磨厂是这轮最新铀矿热潮的焦点。" },
-        { "en": "The Havasupai and Ute Mountain Ute tribes share concerns that toxic wastewater may poison drinking water.", "zh": "哈瓦苏派和犹特山尤特部落共同担忧，有毒废水可能会污染饮用水。" }
+        {
+          "en": "With the Strait of Hormuz effectively closed, pressure on the Panama Canal has increased.",
+          "zh": "随着霍尔木兹海峡实际上被关闭，巴拿马运河承受的压力也随之增加。"
+        },
+        {
+          "en": "Combined with lower water levels, transit prices through the canal are soaring.",
+          "zh": "再加上水位下降，运河的通行价格正在飙升。"
+        },
+        {
+          "en": "According to new reporting from the Financial Times, some companies are having to cough up more than $1 million for each trip through the canal.",
+          "zh": "据《金融时报》的新报道，一些公司每次通过运河不得不掏出逾 100 万美元。"
+        },
+        {
+          "en": "That’s more than 16 times what it cost a year ago.",
+          "zh": "这是一年前成本的 16 倍多。"
+        },
+        {
+          "en": "One of the big tankers that carries liquefied petroleum gas reportedly paid 4.6 million just to go through on one of these auction slots.",
+          "zh": "据报道，一艘运输液化石油气的大型油轮仅为通过一个此类拍卖时段就支付了 460 万美元。"
+        },
+        {
+          "en": "It’s really a staggering sum which they’re now having to pay to get through the canal.",
+          "zh": "这确实是一笔令人咋舌的金额，而他们现在不得不支付才能通过运河。"
+        },
+        {
+          "en": "It’s going to be the shipping companies to start with.",
+          "zh": "起先是航运公司来承担这笔费用。"
+        },
+        {
+          "en": "But ultimately, it feeds through the economy, and it means higher prices for consumers.",
+          "zh": "但最终，它会渗透进整个经济，意味着消费者要面对更高的价格。"
+        },
+        {
+          "en": "That will push up inflation.",
+          "zh": "那将推高通货膨胀。"
+        },
+        {
+          "en": "The shipping companies are already passing on these extra costs of the transit.",
+          "zh": "航运公司已经在转嫁这些额外的通行成本。"
+        },
+        {
+          "en": "MSC shipping line just announced it’s going to introduce a new surcharge of $376 for a 45-foot container.",
+          "zh": "地中海航运公司刚刚宣布，将为 45 英尺的集装箱新增 376 美元的新附加费。"
+        }
       ],
       "vocab": [
-        { "word": "uranium", "pos": "n.", "zh": "铀" },
-        { "word": "radioactive", "pos": "adj.", "zh": "放射性的" },
-        { "word": "contamination", "pos": "n.", "zh": "污染" },
-        { "word": "tribal", "pos": "adj.", "zh": "部落的" },
-        { "word": "revive", "pos": "v.", "zh": "复兴；复苏" },
-        { "word": "domestic", "pos": "adj.", "zh": "国内的" },
-        { "word": "quadruple", "pos": "v.", "zh": "使翻两番" },
-        { "word": "low-carbon", "pos": "adj.", "zh": "低碳的" },
-        { "word": "toxic", "pos": "adj.", "zh": "有毒的" },
-        { "word": "wastewater", "pos": "n.", "zh": "废水" },
-        { "word": "ore", "pos": "n.", "zh": "矿石" },
-        { "word": "legacy", "pos": "n.", "zh": "遗留（问题）；遗产" }
+        {
+          "word": "strait",
+          "pos": "n.",
+          "zh": "海峡"
+        },
+        {
+          "word": "transit",
+          "pos": "n.",
+          "zh": "通行；运输"
+        },
+        {
+          "word": "soaring",
+          "pos": "adj.",
+          "zh": "飙升的；猛涨的"
+        },
+        {
+          "word": "liquefied",
+          "pos": "adj.",
+          "zh": "液化的"
+        },
+        {
+          "word": "petroleum",
+          "pos": "n.",
+          "zh": "石油"
+        },
+        {
+          "word": "auction",
+          "pos": "n.",
+          "zh": "拍卖"
+        },
+        {
+          "word": "staggering",
+          "pos": "adj.",
+          "zh": "令人咋舌的；惊人的"
+        },
+        {
+          "word": "surcharge",
+          "pos": "n.",
+          "zh": "附加费"
+        },
+        {
+          "word": "inflation",
+          "pos": "n.",
+          "zh": "通货膨胀"
+        },
+        {
+          "word": "container",
+          "pos": "n.",
+          "zh": "集装箱"
+        },
+        {
+          "word": "multinational",
+          "pos": "adj.",
+          "zh": "跨国的"
+        },
+        {
+          "word": "retailer",
+          "pos": "n.",
+          "zh": "零售商"
+        }
       ],
       "grammar": [
-        "同位语/非限制性定语：'White Mesa Mill, the nation's only remaining conventional uranium mill' 后接名词短语作同位语，补充说明工厂身份。",
-        "现在完成时：'the mill has sparked debate' 强调从过去持续到现在的影响。",
-        "whether 引导宾语从句：'debate over whether radioactive contamination threatens human health' 中 whether 引导介词 over 的宾语从句。",
-        "现在分词作伴随状语：'relying on bottled water instead' 现在分词短语伴随主句动作，说明替代方式。",
-        "as 引导原因状语从句：'as the U.S. pushes to revive domestic uranium production'。",
-        "不定式作目的状语：'set a goal to quadruple U.S. nuclear energy capacity' 中 to do 表示目标。",
-        "同位语从句：'concerns that toxic wastewater may poison drinking water' 中 that 引导同位语从句，说明 concerns 的具体内容。"
+        "with 复合结构（With...closed）：\"With the Strait of Hormuz effectively closed\" 中 with + 宾语 + 形容词，作原因状语。",
+        "过去分词作原因状语：\"Combined with lower water levels\" 过去分词短语作原因状语。",
+        "现在进行时（are soaring）：\"transit prices ... are soaring\" 用进行时表正在发生的变化趋势。",
+        "动词短语（cough up）：\"are having to cough up more than $1 million\" 中 cough up 为口语短语，意为“勉强付出（钱）”。",
+        "定语从句：\"One of the big tankers that carries liquefied petroleum gas\" that 引导定语从句。",
+        "将来时（is going to / will）：\"It’s going to be the shipping companies\" 与 \"That will push up inflation\" 表将来。",
+        "现在进行时表近期安排：\"MSC shipping line just announced it’s going to introduce a new surcharge\" 间接引语中转述将来动作。"
       ]
     },
     {
       "id": "news-7",
-      "title": "Researchers have successfully used AI to create brand new viruses",
-      "source": "NPR Science",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5927074/researchers-have-successfully-used-ai-to-create-brand-new-viruses",
-      "summary": "斯坦福研究团队首次用 AI 在实验室“设计”出自然界不存在的新病毒，既展现对抗超级细菌、癌症的潜力，也引发对技术被滥用的担忧。",
-      "category": "科学",
+      "title": "A good – and bad – week for Italy’s art police and museum security",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
+      "summary": "意大利“艺术警察”一周内先找回帕尔马近千万美元被盗名画，又在西西里节庆夜痛失四位文艺复兴大师画作；文物保护的攻防战仍在继续。",
+      "category": "世界",
       "sentences": [
-        { "en": "For the first time, researchers have used artificial intelligence to generate novel viruses in a laboratory setting.", "zh": "研究人员首次利用人工智能在实验室环境中生成了全新的病毒。" },
-        { "en": "Here's a new addition to the list of things AI can do — create new viruses not found in nature.", "zh": "AI 能做的事又多了一项——创造出自然界中不存在的新病毒。" },
-        { "en": "That is according to a new paper in the journal Science.", "zh": "这一结论来自《科学》期刊上的一篇新论文。" },
-        { "en": "This development actually brings a great deal of promise for helping humans.", "zh": "这一进展实际上为人类带来了巨大的希望。" },
-        { "en": "Some fear it could also be used for harm.", "zh": "也有人担心它也可能被用于作恶。" },
-        { "en": "Researchers have long been able to engineer certain viruses.", "zh": "研究人员长期以来一直能够对某些病毒进行改造。" },
-        { "en": "But using AI to design brand-new ones has, until now, mostly been the stuff of science fiction.", "zh": "但用 AI 设计全新的病毒，直到现在大多还只是科幻小说里的情节。" },
-        { "en": "Brian Hie of Stanford University is one of the researchers that worked on this project.", "zh": "斯坦福大学的布莱恩·希是参与这个项目的研究人员之一。" },
-        { "en": "He remembers the day they first presented their successful results to their colleagues.", "zh": "他还记得他们第一次向同事展示成功结果的那一天。" },
-        { "en": "The lab spontaneously broke into applause, which is the first time that's ever happened in my lab meeting.", "zh": "实验室里自发响起了掌声，这在我的组会上是头一遭。" }
+        {
+          "en": "On Friday, Italian police said they’d recovered three paintings stolen from a museum near the city of Parma.",
+          "zh": "周五，意大利警方表示，他们已找回三幅从帕尔马附近一家博物馆被盗的画作。"
+        },
+        {
+          "en": "By Saturday night, thieves in Sicily had made off with four more masterpieces.",
+          "zh": "到周六夜里，西西里的窃贼又卷走了四幅杰作。"
+        },
+        {
+          "en": "In late March, a gang used a tractor to batter down a fence before two masked burglars broke into the Magnani Rocca Foundation.",
+          "zh": "三月下旬，一个团伙用拖拉机撞倒围栏，随后两名蒙面窃贼闯入马尼亚尼·罗卡基金会。"
+        },
+        {
+          "en": "The roughly $10 million haul included Cézanne’s Still Life with Cherries and Renoir’s Les Poissons.",
+          "zh": "这批约 1000 万美元的赃物包括塞尚的《樱桃静物》和雷诺阿的《鱼》。"
+        },
+        {
+          "en": "This past Friday, officials said the paintings had been recovered during searches that prosecutors had ordered.",
+          "zh": "上周五，官员们表示，这些画作是在检察官下令进行的搜查中被找回的。"
+        },
+        {
+          "en": "That investigative effort was led by the Italian police branch known as the carabinieri.",
+          "zh": "那次调查行动由意大利被称为“卡宾枪兵”的警察分支牵头。"
+        },
+        {
+          "en": "While attention in the city may have been elsewhere, thieves got past the alarm system at Messina’s museum.",
+          "zh": "尽管全城的注意力可能在别处，窃贼还是绕过了墨西拿一家博物馆的警报系统。"
+        },
+        {
+          "en": "In Saturday’s heist, thieves made off with three of the five surviving panels from an altarpiece by Antonello da Messina.",
+          "zh": "在周六的盗窃中，窃贼卷走了安东内洛·达·墨西拿一幅祭坛画现存五块嵌板中的三块。"
+        },
+        {
+          "en": "The work originally had six panels, but one was destroyed along with the monastery that housed it in the 1908 Messina earthquake.",
+          "zh": "这幅作品原本有六块嵌板，但其中一块连同收藏它的修道院在 1908 年墨西拿地震中被毁。"
+        },
+        {
+          "en": "Antonello’s work is highly prized in his home country.",
+          "zh": "安东内洛的作品在他的祖国备受珍视。"
+        },
+        {
+          "en": "Authorities explained that nine people of Moldovan nationality have been placed under investigation.",
+          "zh": "当局解释说，九名摩尔多瓦籍人员已被立案调查。"
+        }
       ],
       "vocab": [
-        { "word": "novel", "pos": "adj.", "zh": "新颖的；前所未有的" },
-        { "word": "generate", "pos": "v.", "zh": "生成；产生" },
-        { "word": "laboratory", "pos": "n.", "zh": "实验室" },
-        { "word": "engineer", "pos": "v.", "zh": "设计；改造（工程化）" },
-        { "word": "fiction", "pos": "n.", "zh": "虚构；小说" },
-        { "word": "genomic", "pos": "adj.", "zh": "基因组的" },
-        { "word": "sequence", "pos": "n.", "zh": "序列" },
-        { "word": "spontaneous", "pos": "adj.", "zh": "自发的" },
-        { "word": "applause", "pos": "n.", "zh": "掌声" },
-        { "word": "promise", "pos": "n.", "zh": "希望；前景" },
-        { "word": "harm", "pos": "n.", "zh": "伤害；危害" },
-        { "word": "computational", "pos": "adj.", "zh": "计算的" }
+        {
+          "word": "masterpiece",
+          "pos": "n.",
+          "zh": "杰作；名作"
+        },
+        {
+          "word": "burglar",
+          "pos": "n.",
+          "zh": "窃贼；入室偷盗者"
+        },
+        {
+          "word": "haul",
+          "pos": "n.",
+          "zh": "赃物；缴获物"
+        },
+        {
+          "word": "recover",
+          "pos": "v.",
+          "zh": "找回；恢复"
+        },
+        {
+          "word": "prosecutor",
+          "pos": "n.",
+          "zh": "检察官"
+        },
+        {
+          "word": "carabinieri",
+          "pos": "n.",
+          "zh": "卡宾枪兵（意大利宪兵）"
+        },
+        {
+          "word": "heist",
+          "pos": "n.",
+          "zh": "盗窃（尤指艺术品）"
+        },
+        {
+          "word": "altarpiece",
+          "pos": "n.",
+          "zh": "祭坛画"
+        },
+        {
+          "word": "monastery",
+          "pos": "n.",
+          "zh": "修道院"
+        },
+        {
+          "word": "prized",
+          "pos": "adj.",
+          "zh": "受珍视的；珍贵的"
+        },
+        {
+          "word": "nationality",
+          "pos": "n.",
+          "zh": "国籍"
+        },
+        {
+          "word": "auction",
+          "pos": "n.",
+          "zh": "拍卖"
+        }
       ],
       "grammar": [
-        "现在完成时：'researchers have used AI to generate novel viruses' 强调过去动作对现在的影响（首次实现）。",
-        "破折号表解释：'create new viruses not found in nature' 破折号后补充说明 list of things 的具体内容。",
-        "信息来源短语：'That is according to a new paper' 用 according to 引出依据。",
-        "现在完成时持续：'Researchers have long been able to engineer certain viruses' 中 have long been able 表示长期具备的能力。",
-        "动名词作主语：'using AI to design brand-new ones has ... been the stuff of science fiction' 动名词短语作主语，谓语用单数 has。",
-        "定语从句：'Brian Hie ... is one of the researchers that worked on this project' 中 that 引导定语从句。",
-        "非限制性定语从句：'The lab spontaneously broke into applause, which is the first time...' 中 which 指代前面整句话。"
+        "过去完成时（said they’d recovered）：\"police said they’d recovered\" 主句过去时，从句用过去完成时表示“过去的过去”。",
+        "过去完成时（had made off）：\"thieves ... had made off with four more masterpieces\" 表示在过去某时间前已发生的动作。",
+        "时间介词（By Saturday night）：\"By Saturday night\" 与过去完成时连用，表示“到……为止”。",
+        "定语从句：\"the monastery that housed it\" 中 that 引导定语从句。",
+        "让步状语从句（While...）：\"While attention ... may have been elsewhere\" while 引导让步状语从句，表示“尽管”。",
+        "一般过去时被动（was destroyed）：\"one was destroyed along with the monastery\" 被动语态叙述过去事件。",
+        "现在完成时被动（have been placed）：\"nine people ... have been placed under investigation\" 现在完成时被动，强调至今状态。"
       ]
     },
     {
       "id": "news-8",
-      "title": "How an AI chatbot is searching for art looted by the Nazis",
-      "source": "NPR Tech",
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5922729/ai-art-provenance-assistant",
-      "summary": "逾 60 万件艺术品在二战中被纳粹掠走，圣克拉拉大学团队开发 AI 聊天机器人，帮助跨数据库搜寻、加速物归原主。",
-      "category": "科技",
+      "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+      "summary": "在房价高企的华盛顿特区，一群年轻女性入住由修女管理的廉价社区之家；十年后房屋将关闭，她们收获的不仅是低租金，更是一份如同家人的情谊。",
+      "category": "生活",
       "sentences": [
-        { "en": "More than 600,000 artworks and other cultural objects, mostly owned by Jews, were stolen by the Nazis.", "zh": "超过 60 万件艺术品和其他文化物品（大多为犹太人所有）被纳粹掠走。" },
-        { "en": "Efforts to shine a light on and restore the more than 100,000 as-yet-unclaimed artifacts have been on the uptick.", "zh": "为曝光并归还那 10 万多件尚未认领文物的努力，近来不断增多。" },
-        { "en": "In April, President Trump signed the Holocaust Expropriated Art Recovery Act into law.", "zh": "今年 4 月，总统签署了《大屠杀被征用艺术品归还法案》，使之成为法律。" },
-        { "en": "But reclaiming these artifacts is often a long and fraught process.", "zh": "但索回这些文物往往是一个漫长而充满波折的过程。" },
-        { "en": "There's no central repository, no database that's telling you where that art is, said Joel Greenberg.", "zh": "乔尔·格林伯格说：“没有一个中央仓库，也没有一个数据库能告诉你那些艺术品在哪里。”" },
-        { "en": "On top of locating the missing art, the rightful owners need to prove it was stolen from them.", "zh": "除了要找到遗失的艺术品，合法所有者还需要证明它是从自己手中被偷走的。" },
-        { "en": "There are dozens of archives containing information about these missing artworks.", "zh": "有数十个档案库保存着这些失踪艺术品的相关信息。" },
-        { "en": "If you could create a system that could scan all the databases, that would be very, very useful, Greenberg said.", "zh": "格林伯格说：“要是能建一个系统扫描所有数据库，那会非常、非常有用。”" },
-        { "en": "A team at Santa Clara University is aspiring to do just that, with a new AI chatbot.", "zh": "圣克拉拉大学的一个团队正借助一款新的 AI 聊天机器人，立志做到这一点。" },
-        { "en": "The AI Provenance Assistant is testing how artificial intelligence could eventually make it easier to search archives.", "zh": "“AI 来源助手”正在测试人工智能最终如何能让档案检索变得更容易。" },
-        { "en": "The AI tool is more intuitive than the Jeu de Paume's database because it doesn't require users to deal with drop-down menus.", "zh": "这个 AI 工具比朱奥·德·波姆博物馆的数据库更直观，因为它不需要用户去处理下拉菜单。" }
+        {
+          "en": "The house has given young women an affordable place to live while they studied or launched careers.",
+          "zh": "这所房子为年轻女性提供了一个可负担的居所，让她们在求学或开启职业生涯时有个落脚处。"
+        },
+        {
+          "en": "By nightfall, it will close its doors for the last time.",
+          "zh": "到黄昏时分，它将最后一次关上大门。"
+        },
+        {
+          "en": "“I’m 76 years old and running a house like this takes a lot of energy,” Roche said.",
+          "zh": "“我 76 岁了，经营这样一所房子非常耗费精力，”罗氏修女说。"
+        },
+        {
+          "en": "It’s one of several homes throughout the U.S. run by the Society of the Sacred Heart.",
+          "zh": "它是全美由“圣心会”管理的多所住所之一。"
+        },
+        {
+          "en": "As a member of the international religious order, Roche has worked in Haiti and the Democratic Republic of Congo.",
+          "zh": "作为这个国际修会的成员，罗氏曾在海地和刚果民主共和国工作。"
+        },
+        {
+          "en": "Anne Montgomery House is part of a broader housing trend emerging in expensive cities.",
+          "zh": "安妮·蒙哥马利之家是出现在高房价城市中的一股更广泛住房趋势的一部分。"
+        },
+        {
+          "en": "Early-career professionals are opting to live in Catholic-run homes that offer below-market rent.",
+          "zh": "处于职业生涯早期的职场人士正选择住在由天主教会运营的、低于市场价的住所里。"
+        },
+        {
+          "en": "But some residents find more than cheap housing.",
+          "zh": "但有些住户得到的不仅仅是一处便宜的房子。"
+        },
+        {
+          "en": "At Anne Montgomery, a group of young women found a built-in community and support network.",
+          "zh": "在安妮·蒙哥马利之家，一群年轻女性找到了一个天然的社群和互助网络。"
+        },
+        {
+          "en": "When Abigail Bulman arrived at the house, she expected little more than a roof over her head.",
+          "zh": "当阿比盖尔·布尔曼来到这所房子时，她只期待有个遮风挡雨的屋顶。"
+        },
+        {
+          "en": "Instead, she found herself sharing homemade dinners that transformed a group of strangers into something close to a family.",
+          "zh": "结果，她发现自己和大家一起分享家常晚餐，这些晚餐把一群陌生人变成了近乎家人的存在。"
+        }
       ],
       "vocab": [
-        { "word": "loot", "pos": "v.", "zh": "掠夺；洗劫" },
-        { "word": "artifact", "pos": "n.", "zh": "文物；手工艺品" },
-        { "word": "reclaim", "pos": "v.", "zh": "索回；收回" },
-        { "word": "repository", "pos": "n.", "zh": "仓库；资料库" },
-        { "word": "archive", "pos": "n.", "zh": "档案；档案馆" },
-        { "word": "provenance", "pos": "n.", "zh": "（艺术品的）出处；来源" },
-        { "word": "repatriation", "pos": "n.", "zh": "归还；遣返" },
-        { "word": "intuitive", "pos": "adj.", "zh": "直观的" },
-        { "word": "chatbot", "pos": "n.", "zh": "聊天机器人" },
-        { "word": "fraught", "pos": "adj.", "zh": "充满（问题）的；令人担忧的" },
-        { "word": "scan", "pos": "v.", "zh": "扫描" },
-        { "word": "rightful", "pos": "adj.", "zh": "合法的；正当的" }
+        {
+          "word": "affordable",
+          "pos": "adj.",
+          "zh": "负担得起的"
+        },
+        {
+          "word": "nightfall",
+          "pos": "n.",
+          "zh": "黄昏；傍晚"
+        },
+        {
+          "word": "religious",
+          "pos": "adj.",
+          "zh": "宗教的；修会的"
+        },
+        {
+          "word": "refugee",
+          "pos": "n.",
+          "zh": "难民"
+        },
+        {
+          "word": "trend",
+          "pos": "n.",
+          "zh": "趋势"
+        },
+        {
+          "word": "opt",
+          "pos": "v.",
+          "zh": "选择；抉择"
+        },
+        {
+          "word": "below-market",
+          "pos": "adj.",
+          "zh": "低于市场价的"
+        },
+        {
+          "word": "resident",
+          "pos": "n.",
+          "zh": "住户；居民"
+        },
+        {
+          "word": "community",
+          "pos": "n.",
+          "zh": "社群；社区"
+        },
+        {
+          "word": "lifelong",
+          "pos": "adj.",
+          "zh": "终生的"
+        },
+        {
+          "word": "ritual",
+          "pos": "n.",
+          "zh": "日常惯例；仪式"
+        },
+        {
+          "word": "chore",
+          "pos": "n.",
+          "zh": "家务；杂务"
+        }
       ],
       "grammar": [
-        "一般过去时被动：'More than 600,000 artworks ... were stolen by the Nazis' 用被动语态叙述历史事件。",
-        "现在完成时：'Efforts ... have been on the uptick' 表示动作持续到现在的状态。",
-        "动名词作主语：'reclaiming these artifacts is often a long and fraught process' 动名词短语作主语，谓语用单数 is。",
-        "直接引语后置：'said Joel Greenberg' 置于引语之后，注意引语内标点与 said 后标点。",
-        "介词短语 'on top of'：'On top of locating the missing art' 表示“除……之外（还）”。",
-        "虚拟语气：'If you could create a system ... that would be very useful' 用 If + 过去式、主句 would，表示与现在相反的假设。",
-        "比较级：'The AI tool is more intuitive than the Jeu de Paume's database' 用比较级 + than 比较两者。"
+        "动词不定式作定语：\"an affordable place to live\" 中 to live 修饰 place。",
+        "一般将来时（will close）：\"it will close its doors for the last time\" 用一般将来时叙述即将发生的事。",
+        "动名词作主语：\"running a house like this takes a lot of energy\" 动名词短语 running... 作主语，谓语用单数 takes。",
+        "过去分词作后置定语：\"homes ... run by the Society of the Sacred Heart\" 过去分词短语修饰 homes。",
+        "现在完成时（has worked）：\"Roche has worked in Haiti and...\" 表示过去到现在的工作经历。",
+        "现在进行时（are opting）：\"professionals are opting to live...\" 用进行时表示当前正在形成的趋势。",
+        "定语从句：\"homes that offer below-market rent\" 与 \"homemade dinners that transformed...\" 用 that 引导定语从句。"
       ]
     }
   ]
