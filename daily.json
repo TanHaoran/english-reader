@@ -1,24 +1,336 @@
 {
-  "date": "2026-08-20",
-  "generatedAt": 1787188755947,
+  "date": "2026-08-21",
+  "generatedAt": 1787274429533,
   "source": "NPR 等主流新闻 RSS（每日自动更新）",
   "articles": [
     {
       "id": "news-1",
-      "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
+      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
       "source": "NPR News",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
-      "summary": "天文学家发现迄今观测到的最快恒星 S301，它正以每秒超过 1.5 万英里的速度绕银河系中心的超大质量黑洞运行，为研究黑洞如何扭曲时空提供了绝佳\"探针\"。",
-      "category": "科学",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+      "summary": "西非名菜 jollof rice（番茄香料米饭）到底哪国最正宗？一场在华盛顿举办的\"盲测节\"让两千名食客用舌头投票，也带出了一段跨越国界的美食 rivalry。",
+      "category": "生活",
       "sentences": [
         {
-          "en": "Researchers have identified a speed demon at the heart of the Milky Way.",
-          "zh": "研究人员在银河系中心发现了一颗\"速度恶魔\"般的恒星。"
+          "en": "It's a heated historic rivalry across West Africa: Which country makes the best jollof rice?",
+          "zh": "这是西非一场激烈的历史性较量：究竟哪个国家做的 jollof rice 最正宗？"
         },
         {
-          "en": "This fast-moving star may yield insights into the black hole parked at the center of our galaxy.",
-          "zh": "这颗高速运动的恒星或许能让我们深入了解盘踞在银河系中心的黑洞。"
+          "en": "Cooks across both Nigeria and Ghana have long claimed to make the best.",
+          "zh": "尼日利亚和加纳的厨师们长久以来都宣称自己做得最好。"
         },
+        {
+          "en": "But chefs in Senegal argue that it originated there in the 14th century — so it must be the best!",
+          "zh": "但塞内加尔的厨师辩称，这道菜 14 世纪就发源于他们那里——所以它必定是最棒的！"
+        },
+        {
+          "en": "No fewer than 10 countries offer their own version of the dish: a rich, fragrant rice cooked down with spices, tomatoes and meat.",
+          "zh": "不少于 10 个国家都有自己版本的这道菜：用香料、番茄和肉慢炖而成的浓香米饭。"
+        },
+        {
+          "en": "On Saturday, 2,000 people stood in line near Washington, D.C.'s Union Market for a yellow box of six color-coded taster cups.",
+          "zh": "周六，两千人在华盛顿特区联合市场附近排起长队，只为领取一盒六杯、按颜色编码的试吃杯。"
+        },
+        {
+          "en": "The organizers of the Jollof Festival have traveled across the United States to put this debate to the test.",
+          "zh": "Jollof 美食节的组织者走遍美国，就是要让这场争论接受真正的检验。"
+        },
+        {
+          "en": "They gathered thousands of people for blind tastings of regional jollof prepared by local chefs.",
+          "zh": "他们聚集了数千人，对当地厨师烹制的各地 jollof 进行盲测品鉴。"
+        },
+        {
+          "en": "Friends Julie Agbasi and Shakesha Coleman came out to sample the variety and compared notes as they tried each one.",
+          "zh": "朋友朱莉·阿格巴西和谢基莎·科尔曼前来品尝不同风味，边尝边交流心得。"
+        },
+        {
+          "en": "\"It bites you at the end!\" Agbasi said after trying one.",
+          "zh": "\"它最后会辣到你！\"阿格巴西尝了一口后说。"
+        },
+        {
+          "en": "My heritage is Nigerian, so we used to eat jollof rice almost all the time, Agbasi said.",
+          "zh": "阿格巴西说：我的血统是尼日利亚人，所以我们以前几乎顿顿都吃 jollof rice。"
+        },
+        {
+          "en": "The rice samples ranged from a bright red to a brighter yellow jollof, flecked with herbs.",
+          "zh": "米饭样品从亮红色到更鲜亮的黄色不等，上面还点缀着香草。"
+        },
+        {
+          "en": "Many visitors enjoyed the samples, but doubled down on their preferences for the jollof of their spouses, neighbors or childhoods.",
+          "zh": "许多游客享受了试吃，却更加坚持自己对配偶、邻居或童年记忆中那碗 jollof 的偏好。"
+        }
+      ],
+      "vocab": [
+        { "word": "rivalry", "pos": "n.", "zh": "竞争；较量；对立" },
+        { "word": "fragrant", "pos": "adj.", "zh": "芳香的；香味浓郁的" },
+        { "word": "originate", "pos": "v.", "zh": "起源；发源" },
+        { "word": "version", "pos": "n.", "zh": "版本；变体" },
+        { "word": "blind", "pos": "adj.", "zh": "盲的（blind tasting 盲测）" },
+        { "word": "taster", "pos": "n.", "zh": "试吃者；品鉴杯" },
+        { "word": "heritage", "pos": "n.", "zh": "传统；血统；遗产" },
+        { "word": "flecked", "pos": "adj.", "zh": "点缀的；有斑点的" },
+        { "word": "diversity", "pos": "n.", "zh": "多样性" },
+        { "word": "debate", "pos": "n./v.", "zh": "争论；辩论" },
+        { "word": "sample", "pos": "n./v.", "zh": "样品；取样品尝" },
+        { "word": "provenance", "pos": "n.", "zh": "来源；出处" }
+      ],
+      "grammar": [
+        "现在完成时 have claimed：例 \"Cooks across both Nigeria and Ghana have long claimed to make the best.\" have claimed 表示动作从过去持续到现在，强调长期以来的说法。",
+        "破折号引出结论：例 \"But chefs in Senegal argue that it originated there in the 14th century — so it must be the best!\" 破折号后接 so 引导的结论句。",
+        "No fewer than + 数字 表\"不少于、多达\"：例 \"No fewer than 10 countries offer their own version of the dish.\" 用该结构强调数量之多。",
+        "过去分词短语作后置定语：例 \"The rice samples ranged from a bright red to a brighter yellow jollof, flecked with herbs.\" flecked with herbs 修饰 jollof，相当于 which were flecked with herbs。",
+        "并列连词 but 表转折：例 \"Many visitors enjoyed the samples, but doubled down on their preferences...\" but 连接两个相对的动作。",
+        "as 引导的时间状语从句：例 \"...compared notes as they tried each one.\" as 表示\"当……的时候\"。"
+      ]
+    },
+    {
+      "id": "news-2",
+      "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
+      "source": "NPR News",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
+      "summary": "为庆祝建国里程碑，华盛顿国家广场将首办印地赛车大奖赛，高速赛车从多家博物馆旁呼啸而过，艺术专家担心震动会伤及馆内藏品，主办方则坚称已做好防护。",
+      "category": "生活",
+      "sentences": [
+        {
+          "en": "More than two dozen IndyCar drivers will race 147 laps around Washington, D.C.'s National Mall this weekend for the Freedom 250 Grand Prix.",
+          "zh": "本周末，二十多名印地赛车手将在华盛顿国家广场绕行 147 圈，角逐\"自由 250 大奖赛\"。"
+        },
+        {
+          "en": "The two-day event includes practices, qualifiers and warmups, culminating in the 250-mile race on Sunday afternoon.",
+          "zh": "这场为期两天的活动包括练习、资格赛和热身，最终在周日下午迎来 250 英里的正赛。"
+        },
+        {
+          "en": "Cars will fly — at speeds up to 180 mph — around a 1.7-mile irregularly-shaped track smack-dab on the National Mall.",
+          "zh": "赛车将以高达每小时 180 英里的速度，在国家广场正中一条 1.7 英里、形状不规则的赛道上飞驰。"
+        },
+        {
+          "en": "Along the route, they will zoom past cultural institutions including the National Gallery of Art and three Smithsonian museums.",
+          "zh": "沿途，它们将从国家艺术馆和三家史密森尼博物馆等文化机构旁呼啸而过。"
+        },
+        {
+          "en": "And that has raised questions about the safety of the art and artifacts inside.",
+          "zh": "这也引发了人们对馆内艺术品和文物安全性的质疑。"
+        },
+        {
+          "en": "Namely: Could they be damaged by vibrations from the cars whizzing by?",
+          "zh": "具体而言：飞驰而过的赛车产生的震动，会不会损坏它们？"
+        },
+        {
+          "en": "The National Gallery of Art, whose sculpture garden is along the course, has boarded up some of its outdoor works.",
+          "zh": "国家艺术馆的雕塑花园就在赛道旁，它已用木板封起了部分户外作品。"
+        },
+        {
+          "en": "Spokesperson Chris Abanavas told NPR over email that it conducted an extensive vibration study.",
+          "zh": "发言人克里斯·阿巴纳瓦斯通过邮件告诉 NPR，馆方开展了一项广泛的震动研究。"
+        },
+        {
+          "en": "Race organizers say they are taking proper precautions and don't anticipate any damage.",
+          "zh": "赛事组织方表示，他们正在采取恰当的预防措施，预计不会造成任何损坏。"
+        },
+        {
+          "en": "IndyCar officials point to the success of other races in sensitive areas, like one in Detroit's historic Belle Isle Park.",
+          "zh": "印地赛车官员列举了其他在敏感区域办赛的成功案例，比如底特律历史悠久的贝尔岛公园。"
+        },
+        {
+          "en": "But critics say the National Mall is different: Speed limits are generally around 25 mph.",
+          "zh": "但批评者指出国家广场情况不同：那里的限速通常约为每小时 25 英里。"
+        },
+        {
+          "en": "A race like this has never been held there before, and organizers had less than a year to plan the event.",
+          "zh": "此类赛事此前从未在此举办过，而组织者的筹备时间还不到一年。"
+        }
+      ],
+      "vocab": [
+        { "word": "grand prix", "pos": "n.", "zh": "大奖赛" },
+        { "word": "qualifier", "pos": "n.", "zh": "资格赛" },
+        { "word": "culminate", "pos": "v.", "zh": "达到高潮；以……告终" },
+        { "word": "artifact", "pos": "n.", "zh": "文物；手工艺品" },
+        { "word": "vibration", "pos": "n.", "zh": "震动；振动" },
+        { "word": "precaution", "pos": "n.", "zh": "预防措施" },
+        { "word": "anticipate", "pos": "v.", "zh": "预期；预料" },
+        { "word": "institution", "pos": "n.", "zh": "机构；院所" },
+        { "word": "sculpture", "pos": "n.", "zh": "雕塑" },
+        { "word": "track", "pos": "n.", "zh": "赛道；跑道" },
+        { "word": "smack-dab", "pos": "adv.", "zh": "恰好；正中地" },
+        { "word": "critic", "pos": "n.", "zh": "批评者；评论家" }
+      ],
+      "grammar": [
+        "一般将来时 will + 动词原形：例 \"More than two dozen IndyCar drivers will race 147 laps...\" 表示按计划即将发生的动作。",
+        "现在分词 whizzing by 作后置定语：例 \"Could they be damaged by vibrations from the cars whizzing by?\" whizzing by 修饰 cars，相当于 which are whizzing by。",
+        "whose 引导的非限制性定语从句：例 \"The National Gallery of Art, whose sculpture garden is along the course, has boarded up some of its outdoor works.\" whose 表示所属关系。",
+        "破折号插入补充说明：例 \"Cars will fly — at speeds up to 180 mph — around a 1.7-mile track...\" 破折号内为插入语，说明速度。",
+        "现在完成时 has never been held：例 \"A race like this has never been held there before...\" 强调从过去到现在从未发生过。",
+        "并列连词 but 表转折：例 \"But critics say the National Mall is different...\" but 引出与前文相反的观点。"
+      ]
+    },
+    {
+      "id": "news-3",
+      "title": "Why tech companies are buying up tons of rare old books to train their AI models",
+      "source": "NPR Tech",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5936438/why-tech-companies-are-buying-up-tons-of-rare-old-books-to-train-their-ai-models",
+      "summary": "为给 AI 模型寻找更干净的\"人类生成文本\"，科技公司大批量收购并扫描市面上难以获取的小众旧书，甚至拆书毁书，引发关于\"模型坍缩\"与资源浪费的讨论。",
+      "category": "科技",
+      "sentences": [
+        {
+          "en": "Tech companies have been going to great lengths to find ways to train their AI models.",
+          "zh": "科技公司一直不遗余力地寻找训练其 AI 模型的方法。"
+        },
+        {
+          "en": "An investigation by 404 Media traced one purchase of rare books with a tracking device and found that the shipment ended up at an Amazon AI training warehouse.",
+          "zh": "404 Media 的一项调查借助追踪设备追查了一笔稀有书籍采购，发现这批货最终送到了亚马逊的一个 AI 训练仓库。"
+        },
+        {
+          "en": "We've known that AI companies have been doing this since a lawsuit from book authors against Anthropic, which is one of the major AI labs.",
+          "zh": "我们早就知道 AI 公司在这么做，起因是图书作者起诉 Anthropic（一家主要 AI 实验室）的官司。"
+        },
+        {
+          "en": "That lawsuit revealed that they were purchasing books in large quantities, that they were scanning them, and that in order to scan them really fast, they cut the spines off the books.",
+          "zh": "那场官司揭露，他们大量购书、扫描，而且为了扫描得更快，还把书脊裁掉。"
+        },
+        {
+          "en": "When you get an order for hundreds of books that have no coherent theme, that is another sign.",
+          "zh": "当你收到几百本毫无连贯主题的书的订单时，那就是另一个信号。"
+        },
+        {
+          "en": "At the point at which they did that, that content was human-generated.",
+          "zh": "在他们那样做的时候，那些内容还是人类生成的。"
+        },
+        {
+          "en": "It turns out that that causes a problem called model collapse, where if an AI trains on AI training data, it gets worse.",
+          "zh": "结果表明，这会导致一个叫\"模型坍缩\"的问题——如果 AI 用 AI 生成的数据来训练，效果反而会更差。"
+        },
+        {
+          "en": "So now they're looking for more human-generated text because they already scraped the internet.",
+          "zh": "所以现在他们要寻找更多人类生成的文本，因为互联网早已被他们抓取得一干二净。"
+        },
+        {
+          "en": "The next logical step is to scan books that are not easily available online.",
+          "zh": "合乎逻辑的下一步，就是扫描那些在网上不易获取的书籍。"
+        },
+        {
+          "en": "A rare book is most likely a book that was never printed in large quantities because it is about a niche subject.",
+          "zh": "所谓稀有书，多半是那些因主题小众而从未大量印刷的书。"
+        },
+        {
+          "en": "Amazon confirmed that the warehouse that I reported on was actually used for AI training data.",
+          "zh": "亚马逊确认，我所报道的那个仓库确实被用于 AI 训练数据。"
+        },
+        {
+          "en": "Amazon purchases books through commercial channels to help develop and improve the products and services our customers use.",
+          "zh": "亚马逊通过商业渠道采购书籍，以帮助开发和改进客户使用的产品与服务。"
+        }
+      ],
+      "vocab": [
+        { "word": "investigation", "pos": "n.", "zh": "调查" },
+        { "word": "shipment", "pos": "n.", "zh": "货物；装运" },
+        { "word": "lawsuit", "pos": "n.", "zh": "诉讼；官司" },
+        { "word": "quantity", "pos": "n.", "zh": "数量" },
+        { "word": "spine", "pos": "n.", "zh": "书脊" },
+        { "word": "coherent", "pos": "adj.", "zh": "连贯的；有条理的" },
+        { "word": "collapse", "pos": "n./v.", "zh": "崩溃；坍缩（model collapse 模型坍缩）" },
+        { "word": "scrape", "pos": "v.", "zh": "抓取；刮取" },
+        { "word": "niche", "pos": "adj./n.", "zh": "小众的；利基" },
+        { "word": "manuscript", "pos": "n.", "zh": "手稿；原稿" },
+        { "word": "commercial", "pos": "adj.", "zh": "商业的" },
+        { "word": "warehouse", "pos": "n.", "zh": "仓库" }
+      ],
+      "grammar": [
+        "现在完成进行时 have been going / have been doing：例 \"Tech companies have been going to great lengths to find ways to train their AI models.\" 强调动作从过去持续至今。",
+        "定语从句 which is one of the major AI labs：例 \"...a lawsuit from book authors against Anthropic, which is one of the major AI labs.\" which 引导非限制性定语从句补充说明 Anthropic。",
+        "过去进行时 were purchasing / were scanning：例 \"That lawsuit revealed that they were purchasing books in large quantities, that they were scanning them...\" 描述过去某时正在进行的动作。",
+        "where 引导的定语从句：例 \"...a problem called model collapse, where if an AI trains on AI training data, it gets worse.\" where 修饰 problem，引出一个情景。",
+        "原因状语从句 because 引导：例 \"So now they're looking for more human-generated text because they already scraped the internet.\" because 说明原因。",
+        "定语从句 that they already scraped：例 \"...books that are not easily available online.\" that 引导定语从句修饰 books。"
+      ]
+    },
+    {
+      "id": "news-4",
+      "title": "Open AI launches ChatGPT designed for younger users",
+      "source": "NPR Tech",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5937930/open-ai-launches-chatgpt-designed-for-younger-users",
+      "summary": "面对家长对 AI 影响学习与心理健康的担忧，OpenAI 推出专为 18 岁以下用户设计的\"青少年版 ChatGPT\"，加强安全防护、加入学习模式，并试图用年龄预测模型识别未成年用户。",
+      "category": "科技",
+      "sentences": [
+        {
+          "en": "Many teenagers use artificial intelligence not just for homework but for companionship.",
+          "zh": "许多青少年使用人工智能，不只是为了写作业，也为了陪伴。"
+        },
+        {
+          "en": "Now OpenAI has a new version of its chatbot that it says addresses some of those concerns and gives parents more control.",
+          "zh": "如今 OpenAI 推出了一款新版聊天机器人，称其解决了部分担忧，并让家长拥有更多掌控权。"
+        },
+        {
+          "en": "It's called ChatGPT for Teens.",
+          "zh": "它叫作\"青少年版 ChatGPT\"。"
+        },
+        {
+          "en": "ChatGPT for Teens is a dedicated chatbot experience for users under 18 years old.",
+          "zh": "青少年版 ChatGPT 是面向 18 岁以下用户的专属聊天机器人体验。"
+        },
+        {
+          "en": "Users between 17 and 13, which is the youngest age that the platform allows, will be automatically placed into the ChatGPT for Teens experience.",
+          "zh": "13 至 17 岁的用户（平台允许的最小年龄为 13 岁）将自动进入青少年版体验。"
+        },
+        {
+          "en": "When you sign up to create a ChatGPT account, you have to input your full name and age.",
+          "zh": "注册创建 ChatGPT 账号时，你必须填写全名和年龄。"
+        },
+        {
+          "en": "If a kid tries to circumvent that and claims to be older than they are, OpenAI has a second option that they lean on here.",
+          "zh": "如果孩子试图绕过这一步、谎报年龄，OpenAI 还有第二招可以倚仗。"
+        },
+        {
+          "en": "In January, they introduced an age prediction model which helps estimate whether a user is under 18.",
+          "zh": "今年 1 月，他们推出了一个年龄预测模型，可帮助判断用户是否未满 18 岁。"
+        },
+        {
+          "en": "If a child is trying to take a shortcut quickly to get to an answer, ChatGPT for Teens can show them and redirect them to a mode called study mode.",
+          "zh": "如果孩子想走捷径快速得到答案，青少年版会提醒并引导其进入一种叫\"学习模式\"的状态。"
+        },
+        {
+          "en": "OpenAI says the ChatGPT experience is designed with stronger built-in safety protections.",
+          "zh": "OpenAI 表示，该版本内置了更强的安全防护。"
+        },
+        {
+          "en": "It also encourages users to take breaks, with reminders to step away and turn off the chatbot.",
+          "zh": "它还会鼓励用户休息，提醒他们离开屏幕并关掉聊天机器人。"
+        },
+        {
+          "en": "OpenAI also said it includes consistent reminders to tell users that they're talking to AI and not to a person.",
+          "zh": "OpenAI 还表示，它会持续提醒用户：你正在和 AI 对话，而不是和人。"
+        }
+      ],
+      "vocab": [
+        { "word": "companionship", "pos": "n.", "zh": "陪伴" },
+        { "word": "dedicated", "pos": "adj.", "zh": "专门的；专用的" },
+        { "word": "automatically", "pos": "adv.", "zh": "自动地" },
+        { "word": "circumvent", "pos": "v.", "zh": "规避；绕过" },
+        { "word": "estimate", "pos": "v.", "zh": "估计；估算" },
+        { "word": "shortcut", "pos": "n.", "zh": "捷径" },
+        { "word": "redirect", "pos": "v.", "zh": "重定向；引导" },
+        { "word": "protection", "pos": "n.", "zh": "保护；防护" },
+        { "word": "reminder", "pos": "n.", "zh": "提醒；提示" },
+        { "word": "consistent", "pos": "adj.", "zh": "一致的；一贯的" },
+        { "word": "prediction", "pos": "n.", "zh": "预测" },
+        { "word": "restriction", "pos": "n.", "zh": "限制；约束" }
+      ],
+      "grammar": [
+        "not just...but... 不但……而且：例 \"Many teenagers use artificial intelligence not just for homework but for companionship.\" 连接两个并列成分。",
+        "定语从句 that it says addresses...：例 \"OpenAI has a new version of its chatbot that it says addresses some of those concerns...\" that 引导定语从句修饰 chatbot。",
+        "条件状语从句 if 引导：例 \"If a kid tries to circumvent that and claims to be older than they are, OpenAI has a second option...\" if 表示假设。",
+        "比较级 older than：例 \"...claims to be older than they are...\" than 引出比较对象。",
+        "被动语态 is designed：例 \"OpenAI says the ChatGPT experience is designed with stronger built-in safety protections.\" 被动表示\"被设计\"。",
+        "一般过去时 introduced：例 \"In January, they introduced an age prediction model...\" 描述过去特定时间发生的动作。"
+      ]
+    },
+    {
+      "id": "news-5",
+      "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
+      "source": "NPR Science",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
+      "summary": "天文学家发现迄今观测到的最快恒星 S301，它正以每秒逾 1.5 万英里的速度绕银河系中心的超大质量黑洞运行，为研究黑洞如何扭曲时空提供了绝佳\"探针\"。",
+      "category": "科学",
+      "sentences": [
         {
           "en": "In the fall of 2002, scientists calculated the mass of a truly gargantuan entity at the heart of our Milky Way galaxy.",
           "zh": "2002 年秋天，科学家测算出银河系中心一个真正庞然大物的质量。"
@@ -26,6 +338,10 @@
         {
           "en": "It was four million times the mass of our Sun — so big it almost certainly had to be a supermassive black hole.",
           "zh": "它的质量是太阳的 400 万倍——大到几乎肯定是一个超大质量黑洞。"
+        },
+        {
+          "en": "The object probably looks like Interstellar, says Stefan Gillessen, an astronomer at the Max Planck Institute for Extraterrestrial Physics.",
+          "zh": "马克斯·普朗克地外物理研究所的天文学家斯特凡·吉勒森说，这个天体看起来大概像电影《星际穿越》里的那样。"
         },
         {
           "en": "Black holes are, by their very nature, yawning enigmas — their gravitational pull is so powerful that not even light can escape.",
@@ -36,8 +352,8 @@
           "zh": "在周三发表于《自然》期刊的新研究中，吉勒森和同事描述了迄今观测到的最快恒星。"
         },
         {
-          "en": "Gillessen says that what is important about the discovery isn’t the star’s speed — but rather its proximity to the black hole.",
-          "zh": "吉勒森说，这项发现的关键在于恒星的速度——而在于它离黑洞的距离。"
+          "en": "Gillessen says that what's important about the discovery isn't the star's speed — but rather its proximity to the black hole.",
+          "zh": "吉勒森说，这项发现的关键不在于恒星的速度——而在于它离黑洞的距离。"
         },
         {
           "en": "Thereby we can use the star as a probe to visualize how gravity is acting on space and time.",
@@ -54,835 +370,277 @@
         {
           "en": "And if you want to know about black holes, the center of the Milky Way is the best laboratory we have.",
           "zh": "如果你想了解黑洞，银河系中心就是我们手头最好的实验室。"
+        },
+        {
+          "en": "Gillessen and his team used four of the European Southern Observatory's telescopes in Chile to gather infrared light.",
+          "zh": "吉勒森和团队使用了欧洲南方天文台位于智利的四台望远镜来收集红外光。"
+        },
+        {
+          "en": "He first noticed something curious in the data a few years ago: a very faint star came to our attention, which moved with a very high velocity.",
+          "zh": "几年前他第一次在数据中注意到异常：一颗非常暗淡的恒星引起了我们的注意，它以极高的速度运动。"
         }
       ],
       "vocab": [
-        {
-          "word": "galaxy",
-          "pos": "n.",
-          "zh": "星系；银河系"
-        },
-        {
-          "word": "supermassive",
-          "pos": "adj.",
-          "zh": "超大质量的"
-        },
-        {
-          "word": "gravitational",
-          "pos": "adj.",
-          "zh": "引力的；重力的"
-        },
-        {
-          "word": "proximity",
-          "pos": "n.",
-          "zh": "接近；邻近"
-        },
-        {
-          "word": "infrared",
-          "pos": "adj.",
-          "zh": "红外线的"
-        },
-        {
-          "word": "observatory",
-          "pos": "n.",
-          "zh": "天文台"
-        },
-        {
-          "word": "astronomer",
-          "pos": "n.",
-          "zh": "天文学家"
-        },
-        {
-          "word": "entity",
-          "pos": "n.",
-          "zh": "实体；存在"
-        },
-        {
-          "word": "silhouette",
-          "pos": "n.",
-          "zh": "轮廓；剪影"
-        },
-        {
-          "word": "dominance",
-          "pos": "n.",
-          "zh": "支配；主导"
-        },
-        {
-          "word": "enigma",
-          "pos": "n.",
-          "zh": "谜；神秘事物"
-        },
-        {
-          "word": "calculate",
-          "pos": "v.",
-          "zh": "计算"
-        }
+        { "word": "gargantuan", "pos": "adj.", "zh": "巨大的；庞大的" },
+        { "word": "astronomer", "pos": "n.", "zh": "天文学家" },
+        { "word": "supermassive", "pos": "adj.", "zh": "超大质量的" },
+        { "word": "enigma", "pos": "n.", "zh": "谜；神秘事物" },
+        { "word": "gravitational", "pos": "adj.", "zh": "引力的" },
+        { "word": "proximity", "pos": "n.", "zh": "接近；邻近" },
+        { "word": "probe", "pos": "n.", "zh": "探针；探测器" },
+        { "word": "observatory", "pos": "n.", "zh": "天文台" },
+        { "word": "infrared", "pos": "adj.", "zh": "红外线的" },
+        { "word": "velocity", "pos": "n.", "zh": "速度；速率" },
+        { "word": "extraterrestrial", "pos": "adj.", "zh": "地球外的；外星球的" },
+        { "word": "silhouette", "pos": "n.", "zh": "轮廓；剪影" }
       ],
       "grammar": [
-        "so...that... 结果状语从句：例：\"It was four million times the mass of our Sun — so big it almost certainly had to be a supermassive black hole.\" so 后接形容词 big，that 从句表示结果（大到几乎肯定是超大质量黑洞）。",
-        "现在完成时 have identified：例：\"Researchers have identified a speed demon at the heart of the Milky Way.\" 强调过去动作对现在造成的影响（已经发现）。",
-        "破折号表补充说明：例：\"Black holes are, by their very nature, yawning enigmas — their gravitational pull is so powerful...\" 破折号后解释黑洞为何是谜。",
-        "what 引导的名词性从句作主语：例：\"what is important about the discovery isn’t the star’s speed — but rather its proximity to the black hole.\" what 从句整体作主语，isn’t...but rather... 表\"不是……而是……\"。",
-        "情态动词 may + 动词原形表推测：例：\"This fast-moving star may yield insights into the black hole...\" may 表示可能性。",
-        "不定式 to visualize 表目的：例：\"...we can use the star as a probe to visualize how gravity is acting on space and time.\" 不定式说明\"用作探针\"的目的。"
-      ]
-    },
-    {
-      "id": "news-2",
-      "title": "Many recent grads say AI is making it harder to get a job. Economists aren’t so sure",
-      "source": "NPR Tech",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
-      "summary": "不少应届大学毕业生认为 AI 抢走了入门级岗位，但经济学家指出原因更复杂——年轻人失业率虽略高于整体，却未必全是 AI 之过。",
-      "category": "科技",
-      "sentences": [
-        {
-          "en": "Irene Chang, 21, studied engineering in college because she enjoys solving problems.",
-          "zh": "21 岁的艾琳·张在大学学工程，因为她喜欢解决问题。"
-        },
-        {
-          "en": "She also wanted to major in something she thought would lead to a stable career.",
-          "zh": "她也希望主修一个她认为能带来稳定职业的专业。"
-        },
-        {
-          "en": "Chang graduated in May from Georgia Tech with a bachelor’s degree in industrial and systems engineering.",
-          "zh": "张于今年 5 月从佐治亚理工学院毕业，获得工业与系统工程学士学位。"
-        },
-        {
-          "en": "She says she started applying for entry-level data analyst roles about a year ago, while she was still in school.",
-          "zh": "她说自己大约一年前、还在校时就开始申请入门级数据分析师岗位。"
-        },
-        {
-          "en": "Chang estimates she has submitted around 450 applications since last September and has had about 19 interviews.",
-          "zh": "张估计自去年 9 月以来她投了约 450 份申请，参加了约 19 场面试。"
-        },
-        {
-          "en": "Jacqueline Kline, 25, is in the same boat.",
-          "zh": "25 岁的杰奎琳·克莱恩处境相同。"
-        },
-        {
-          "en": "She graduated this past spring from Florida State University with a master’s degree in communications.",
-          "zh": "她今年春天从佛罗里达州立大学毕业，获得传播学硕士学位。"
-        },
-        {
-          "en": "So far, she says, she has applied to more than 500 entry-level jobs since last December.",
-          "zh": "她说，自去年 12 月以来，她已申请了 500 多个入门级职位。"
-        },
-        {
-          "en": "Both Kline and Chang say they think AI may be part of the reason that finding a job in their respective fields has been such a challenge.",
-          "zh": "克莱恩和张都认为，AI 可能是她们在各自领域求职如此艰难的部分原因。"
-        },
-        {
-          "en": "According to the Federal Reserve Bank of New York, the unemployment rate for recent graduates was 5.7% as of June.",
-          "zh": "据纽约联邦储备银行数据，截至 6 月，应届毕业生的失业率为 5.7%。"
-        },
-        {
-          "en": "Many of those recent graduates think AI is to blame for their employment struggles.",
-          "zh": "许多应届毕业生认为，AI 是他们就业困境的罪魁祸首。"
-        },
-        {
-          "en": "This year, in a survey from ZipRecruiter, 47% of them said AI had already affected hiring in their field.",
-          "zh": "今年 ZipRecruiter 的一项调查中，47% 的人表示 AI 已经影响了他们所在领域的招聘。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "engineering",
-          "pos": "n.",
-          "zh": "工程（学）"
-        },
-        {
-          "word": "stable",
-          "pos": "adj.",
-          "zh": "稳定的"
-        },
-        {
-          "word": "bachelor",
-          "pos": "n.",
-          "zh": "学士（学位）"
-        },
-        {
-          "word": "entry-level",
-          "pos": "adj.",
-          "zh": "入门级的；初级的"
-        },
-        {
-          "word": "estimate",
-          "pos": "v.",
-          "zh": "估计；估算"
-        },
-        {
-          "word": "communications",
-          "pos": "n.",
-          "zh": "传播学；通信"
-        },
-        {
-          "word": "respective",
-          "pos": "adj.",
-          "zh": "各自的；分别的"
-        },
-        {
-          "word": "unemployment",
-          "pos": "n.",
-          "zh": "失业"
-        },
-        {
-          "word": "survey",
-          "pos": "n.",
-          "zh": "调查"
-        },
-        {
-          "word": "blame",
-          "pos": "v.",
-          "zh": "责怪；把……归咎于"
-        },
-        {
-          "word": "internship",
-          "pos": "n.",
-          "zh": "实习"
-        },
-        {
-          "word": "struggle",
-          "pos": "n.",
-          "zh": "挣扎；奋斗"
-        }
-      ],
-      "grammar": [
-        "because 引导原因状语从句：例：\"Irene Chang studied engineering in college because she enjoys solving problems.\" because 说明主句动作的原因。",
-        "现在完成时 has submitted / has had：例：\"Chang estimates she has submitted around 450 applications... and has had about 19 interviews.\" 强调动作从过去某时持续到现在的结果。",
-        "that 引导定语从句（省略关系代词）：例：\"...something she thought would lead to a stable career.\" 省略了 that/which 的定语从句修饰 something。",
-        "in the same boat 习语：意为\"处境相同；同病相怜\"。例：\"Jacqueline Kline is in the same boat.\" 指她也面临同样的求职困境。",
-        "be to blame 固定搭配：例：\"Many of those recent graduates think AI is to blame for their employment struggles.\" be to blame 表示\"应受责备／是……的起因\"。",
-        "介词短语 as of + 时间：例：\"...the unemployment rate for recent graduates was 5.7% as of June.\" as of 意为\"截至……\"。",
-        "过去完成时 had affected：例：\"47% of them said AI had already affected hiring...\" 表示在过去某动作（said）之前已发生的事。"
-      ]
-    },
-    {
-      "id": "news-3",
-      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
-      "source": "NPR News",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
-      "summary": "美国联邦债务突破 40 万亿美元创历史新高，政府每年举债超 2 万亿，仅利息支出就超过 1 万亿，推高了所有人的借贷成本。",
-      "category": "商业",
-      "sentences": [
-        {
-          "en": "The U.S. government’s accumulated debt has reached a record $40 trillion, according to a daily update from the Treasury Department.",
-          "zh": "据财政部每日更新，美国政府的累积债务已达到创纪录的 40 万亿美元。"
-        },
-        {
-          "en": "The federal debt topped $40 trillion Wednesday, a new high-water mark for red ink that shows no sign of receding.",
-          "zh": "联邦债务在周三突破 40 万亿，这是赤字的新高点，且毫无消退迹象。"
-        },
-        {
-          "en": "The government continues to pile up debt at a rapid clip, as spending outstrips revenue by more than $2 trillion a year.",
-          "zh": "政府继续以飞快速度堆积债务，因为支出每年比收入高出 2 万亿美元以上。"
-        },
-        {
-          "en": "Our current fiscal trajectory is plainly unsustainable, and that’s the best-case scenario.",
-          "zh": "我们当前的财政轨迹显然不可持续，而这还是最乐观的情况。"
-        },
-        {
-          "en": "The deficit widened further after the Supreme Court struck down many of President Trump’s tariffs.",
-          "zh": "在最高法院推翻特朗普总统的许多关税后，赤字进一步扩大。"
-        },
-        {
-          "en": "Government revenues have grown 3% this fiscal year — but spending has grown even faster.",
-          "zh": "本财年政府收入增长了 3%——但支出增长得更快。"
-        },
-        {
-          "en": "The government is spending more than a trillion dollars a year just to pay interest on the mounting debt.",
-          "zh": "政府每年花在偿还不断攀升的债务利息上的钱就超过一万亿美元。"
-        },
-        {
-          "en": "Interest is now the government’s second-biggest expense, trailing only Social Security.",
-          "zh": "利息如今是政府的第二大支出，仅次于社会保障。"
-        },
-        {
-          "en": "Interest costs in the first 10 months of this fiscal year were 15% higher than they were in the same period a year ago.",
-          "zh": "本财年前 10 个月的利息支出比一年前的同期高出 15%。"
-        },
-        {
-          "en": "The yield on 30-year Treasurys reached a 19-year high this week.",
-          "zh": "本周 30 年期国债收益率达到了 19 年来的最高点。"
-        },
-        {
-          "en": "That raises borrowing costs for everyone else, since mortgage rates and other interest rates often follow long-term Treasurys.",
-          "zh": "这提高了其他所有人的借贷成本，因为房贷利率和其他利率往往跟随长期国债变动。"
-        },
-        {
-          "en": "Federal debt is already raising the cost of living and choking out other spending and investment.",
-          "zh": "联邦债务已经在推高生活成本，并挤压了其他支出与投资。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "accumulated",
-          "pos": "adj.",
-          "zh": "累积的"
-        },
-        {
-          "word": "treasury",
-          "pos": "n.",
-          "zh": "财政部；国库"
-        },
-        {
-          "word": "deficit",
-          "pos": "n.",
-          "zh": "赤字"
-        },
-        {
-          "word": "unsustainable",
-          "pos": "adj.",
-          "zh": "不可持续的"
-        },
-        {
-          "word": "trajectory",
-          "pos": "n.",
-          "zh": "轨迹；发展路径"
-        },
-        {
-          "word": "fiscal",
-          "pos": "adj.",
-          "zh": "财政的"
-        },
-        {
-          "word": "revenue",
-          "pos": "n.",
-          "zh": "收入；税收"
-        },
-        {
-          "word": "mounting",
-          "pos": "adj.",
-          "zh": "不断增加的；攀升的"
-        },
-        {
-          "word": "yield",
-          "pos": "n.",
-          "zh": "收益率"
-        },
-        {
-          "word": "mortgage",
-          "pos": "n.",
-          "zh": "抵押贷款"
-        },
-        {
-          "word": "prosperity",
-          "pos": "n.",
-          "zh": "繁荣"
-        },
-        {
-          "word": "recede",
-          "pos": "v.",
-          "zh": "消退；减退"
-        }
-      ],
-      "grammar": [
-        "现在完成时 has reached / have grown：例：\"The U.S. government’s accumulated debt has reached a record $40 trillion.\" 强调已到达的现有状态。",
-        "as 引导原因状语从句：例：\"...as spending outstrips revenue by more than $2 trillion a year.\" as 此处表原因\"因为\"。",
-        "现在分词 showing 作后置定语：例：\"...a new high-water mark for red ink that shows no sign of receding.\" showing 修饰 mark，说明其特征。",
-        "strike down 短语动词（被动）：例：\"The Supreme Court struck down many of President Trump’s tariffs.\" strike down 意为\"否决；推翻\"（法律/政策）。",
-        "现在分词 trailing 作状语：例：\"Interest is now the government’s second-biggest expense, trailing only Social Security.\" trailing 表示\"仅次于\"。",
-        "since 引导原因状语从句：例：\"That raises borrowing costs for everyone else, since mortgage rates... often follow long-term Treasurys.\" since 表原因。",
-        "比较级 + than 比较结构：例：\"Interest costs... were 15% higher than they were in the same period a year ago.\" higher than 表示\"高于……\"。"
-      ]
-    },
-    {
-      "id": "news-4",
-      "title": "Why Aitana’s ‘Superestrella’ is the surprise Latin hit song of the summer",
-      "source": "NPR News",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5937925/aitana-superestrella-song-of-the-summer",
-      "summary": "西班牙歌手 Aitana 的《Superestrella》横扫西语世界、登顶 Billboard 拉丁榜，这首带着复古派对气质的情歌，恰好为经历艰难一年的拉美听众提供了逃避现实的慰藉。",
-      "category": "生活",
-      "sentences": [
-        {
-          "en": "\"Superestrella\" is pretty close to perfect pop.",
-          "zh": "《Superestrella》几乎是一首完美的流行歌。"
-        },
-        {
-          "en": "Its catchy hook, syrupy, love-filled lyrics and a resonant drum beat make it tailor-made for head-bopping.",
-          "zh": "它洗脑的副歌、甜腻而充满爱意的歌词，以及共鸣感十足的鼓点，让它天生适合跟着点头摇摆。"
-        },
-        {
-          "en": "It’s an almost early-2000s party song, about falling for a cute guy in the club, even if doing so might be a mistake.",
-          "zh": "它几乎是一首 2000 年代初的派对歌，讲述在俱乐部里爱上帅气男生，即便那样做可能是个错误。"
-        },
-        {
-          "en": "But despite its song of the summer magnetism, the way it has swept most of the Spanish-language world is still a bit surprising.",
-          "zh": "但尽管它有\"年度之歌\"的魅力，它横扫大部分西语世界的方式仍有些令人意外。"
-        },
-        {
-          "en": "The song is over a year old, released by the Spanish artist Aitana on her fourth album, 2025’s Cuarto Azul.",
-          "zh": "这首歌已经发布一年多，由西班牙歌手 Aitana 在她的第四张专辑、2025 年的《Cuarto Azul》中推出。"
-        },
-        {
-          "en": "The Latin Grammy-winning singer from Catalonia first gained notoriety for her time on a local music competition TV show.",
-          "zh": "这位来自加泰罗尼亚、拿过拉丁格莱美的歌手，最初因参加一档本地音乐选秀电视节目而走红。"
-        },
-        {
-          "en": "\"I never imagined that ‘Superestrella’ could go so far and connect with so many people outside Spain,\" Aitana told Billboard.",
-          "zh": "\"我从没想过《Superestrella》能走这么远，还能打动西班牙以外的这么多人，\" Aitana 对 Billboard 说。"
-        },
-        {
-          "en": "Historically, Spain’s pop has been mostly created and championed within the country.",
-          "zh": "从历史上看，西班牙的流行音乐大多是在本国创作并受到推崇的。"
-        },
-        {
-          "en": "But there is something uniting about \"Superestrella\" this summer.",
-          "zh": "但今年夏天，《Superestrella》有着某种凝聚人心的力量。"
-        },
-        {
-          "en": "I have heard it blaring out of tienditas and World Cup watch parties, where Aitana performed the song during Spain’s official World Cup victory celebration.",
-          "zh": "我听到它从街角小店和世界杯观赛派对里轰鸣传出——Aitana 曾在西班牙官方的世界杯夺冠庆祝活动中演唱这首歌。"
-        },
-        {
-          "en": "The region has experienced a difficult year, from natural disasters to political upheaval.",
-          "zh": "这一地区经历了一年艰难时光，从自然灾害到政治动荡。"
-        },
-        {
-          "en": "\"It’s not easy to fall in love with a superstar,\" Aitana belts on her heart-thumping chorus.",
-          "zh": "\"爱上一位超级巨星并不容易，\" Aitana 在她令人心跳加速的副歌里有力唱道。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "catchy",
-          "pos": "adj.",
-          "zh": "朗朗上口的"
-        },
-        {
-          "word": "syrupy",
-          "pos": "adj.",
-          "zh": "甜腻的；缠绵的"
-        },
-        {
-          "word": "resonant",
-          "pos": "adj.",
-          "zh": "洪亮的；共鸣的"
-        },
-        {
-          "word": "tailor-made",
-          "pos": "adj.",
-          "zh": "量身定制的"
-        },
-        {
-          "word": "magnetism",
-          "pos": "n.",
-          "zh": "魅力；吸引力"
-        },
-        {
-          "word": "notoriety",
-          "pos": "n.",
-          "zh": "名声；知名度"
-        },
-        {
-          "word": "sweeping",
-          "pos": "v.",
-          "zh": "横扫；席卷"
-        },
-        {
-          "word": "upheaval",
-          "pos": "n.",
-          "zh": "剧变；动荡"
-        },
-        {
-          "word": "escapist",
-          "pos": "adj.",
-          "zh": "逃避现实的"
-        },
-        {
-          "word": "blare",
-          "pos": "v.",
-          "zh": "轰鸣；响亮地播放"
-        },
-        {
-          "word": "chorus",
-          "pos": "n.",
-          "zh": "副歌"
-        },
-        {
-          "word": "belt",
-          "pos": "v.",
-          "zh": "（歌唱中）有力唱出"
-        }
-      ],
-      "grammar": [
-        "make + 宾语 + 形容词（宾语补足语）：例：\"Its catchy hook... make it tailor-made for head-bopping.\" make 后接宾语 it 和形容词 tailor-made 作补语。",
-        "even if 引导让步状语从句：例：\"...even if doing so might be a mistake.\" even if 表示\"即使\"。",
-        "despite + 名词短语：例：\"But despite its song of the summer magnetism, the way it has swept...\" despite 后接名词，表让步。",
-        "现在完成时 has swept / has experienced：例：\"...the way it has swept most of the Spanish-language world...\" 强调从过去到现在的持续影响。",
-        "过去分词 winning 作定语：例：\"The Latin Grammy-winning singer...\" winning 修饰 singer，表示\"获奖的\"。",
-        "where 引导非限制性定语从句：例：\"...World Cup watch parties, where Aitana performed the song...\" where 指代地点 parties。",
-        "直接引语与引号嵌套：例：\"It’s not easy to fall in love with a superstar,\" Aitana belts... 引语内用单引号标注歌名。"
-      ]
-    },
-    {
-      "id": "news-5",
-      "title": "Australia and New Zealand send over 240 firefighters to help battle U.S. wildfires",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5931946/australia-and-new-zealand-send-over-240-firefighters-to-help-battle-u-s-wildfires",
-      "summary": "美国遭遇破坏性野火季，消防资源逼近极限，澳大利亚和新西兰派出史上最大规模队伍跨国驰援——两国有着长达二十年的消防员互援传统。",
-      "category": "环境",
-      "sentences": [
-        {
-          "en": "A destructive wildfire season is pushing American firefighting resources to their limits.",
-          "zh": "破坏性的野火季正把美国的消防资源推向极限。"
-        },
-        {
-          "en": "Australia and New Zealand have sent their largest contingent ever to help out.",
-          "zh": "澳大利亚和新西兰派出了史上规模最大的队伍前来援助。"
-        },
-        {
-          "en": "On Monday alone, the National Interagency Fire Center counted 147 new fires across the country.",
-          "zh": "仅周一一天，国家跨部门消防中心就统计到全国新增 147 起火灾。"
-        },
-        {
-          "en": "More than 29,000 personnel have been assigned to fight them.",
-          "zh": "已有超过 2.9 万名人员被调配去扑救。"
-        },
-        {
-          "en": "U.S. fire officials are desperate for support, so they’re turning to other countries for help.",
-          "zh": "美国消防官员急需支援，因此正转向其他国家求助。"
-        },
-        {
-          "en": "More than 240 firefighters from Australia and New Zealand are outside on the campus of the National Interagency Fire Center in Boise, Idaho.",
-          "zh": "来自澳大利亚和新西兰的 240 多名消防员聚集在爱达荷州博伊西的国家跨部门消防中心园区外。"
-        },
-        {
-          "en": "They’re all experienced firefighters, but steering wheels, for example, are on the opposite side over here.",
-          "zh": "他们都是有经验的消防员，但比如方向盘在这里是在另一侧。"
-        },
-        {
-          "en": "This group joins a smaller contingent of Australians and New Zealanders who arrived earlier this month.",
-          "zh": "这支队伍加入了本月早些时候抵达的一支规模较小的澳新队伍。"
-        },
-        {
-          "en": "Now more than 300 are fighting large blazes across the West.",
-          "zh": "如今有 300 多人在西部各地扑救大火。"
-        },
-        {
-          "en": "It is absolutely the largest contingent Australia and New Zealand have provided to the U.S. at any one time.",
-          "zh": "这绝对是澳新两国在任何时候向美国派出的最大规模队伍。"
-        },
-        {
-          "en": "We’re in the dormant stage of our winter, and we have the skill and resources.",
-          "zh": "我们正值冬季的休眠期，而且我们拥有技术和资源。"
-        },
-        {
-          "en": "So far, more than 7 million acres have burned, the highest figure in at least a decade.",
-          "zh": "到目前为止，已有超过 700 万英亩土地被烧毁，这是至少十年来的最高数字。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "destructive",
-          "pos": "adj.",
-          "zh": "破坏性的"
-        },
-        {
-          "word": "contingent",
-          "pos": "n.",
-          "zh": "分遣队；队伍"
-        },
-        {
-          "word": "personnel",
-          "pos": "n.",
-          "zh": "人员；员工"
-        },
-        {
-          "word": "desperate",
-          "pos": "adj.",
-          "zh": "急切的；绝望的"
-        },
-        {
-          "word": "assign",
-          "pos": "v.",
-          "zh": "分配；指派"
-        },
-        {
-          "word": "campus",
-          "pos": "n.",
-          "zh": "园区；校园"
-        },
-        {
-          "word": "experienced",
-          "pos": "adj.",
-          "zh": "有经验的"
-        },
-        {
-          "word": "dormant",
-          "pos": "adj.",
-          "zh": "休眠的；蛰伏的"
-        },
-        {
-          "word": "blaze",
-          "pos": "n.",
-          "zh": "烈火；大火"
-        },
-        {
-          "word": "incinerate",
-          "pos": "v.",
-          "zh": "焚毁；烧成灰"
-        },
-        {
-          "word": "preparedness",
-          "pos": "n.",
-          "zh": "准备状态"
-        },
-        {
-          "word": "liaison",
-          "pos": "n.",
-          "zh": "联络人；联络"
-        }
-      ],
-      "grammar": [
-        "现在完成时 have sent / have been assigned / have burned：例：\"Australia and New Zealand have sent their largest contingent ever to help out.\" 强调动作结果持续到现在。",
-        "on Monday alone 中 alone 的用法：例：\"On Monday alone, the National Interagency Fire Center counted 147 new fires.\" alone 意为\"仅仅；单是\"，表强调。",
-        "so 引导结果状语从句：例：\"U.S. fire officials are desperate for support, so they’re turning to other countries for help.\" so 连接因果。",
-        "who 引导定语从句：例：\"...a smaller contingent of Australians and New Zealanders who arrived earlier this month.\" who 修饰人。",
-        "现在进行时 are fighting：例：\"Now more than 300 are fighting large blazes across the West.\" 现在进行时表正在进行的动作。",
-        "最高级 + 范围（in + 时间段）：例：\"...the highest figure in at least a decade.\" 最高级后接 in 短语表示比较范围。",
-        "but 并列转折：例：\"They’re all experienced firefighters, but steering wheels... are on the opposite side.\" but 连接对比。"
+        "一般过去时 calculated：例 \"In the fall of 2002, scientists calculated the mass of a truly gargantuan entity...\" 描述过去具体时间发生的动作。",
+        "so...that... 结果状语从句：例 \"their gravitational pull is so powerful that not even light can escape.\" so + 形容词 + that 从句表结果。",
+        "what 引导主语从句：例 \"what's important about the discovery isn't the star's speed — but rather its proximity to the black hole.\" what 从句整体作主语。",
+        "不定式 to visualize 表目的：例 \"...we can use the star as a probe to visualize how gravity is acting on space and time.\" 不定式说明用途。",
+        "despite 引导的让步：例 \"Despite their gravitational dominance in the universe, researchers still have rather basic questions about black holes.\" despite + 名词短语表\"尽管\"。",
+        "which 引导非限制性定语从句：例 \"...a very faint star came to our attention, which moved with a very high velocity.\" which 指代前面的 star。"
       ]
     },
     {
       "id": "news-6",
-      "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
-      "summary": "法国诺曼底海滨小镇特鲁维尔距巴黎仅两小时火车，却仿佛隔世——海风、碎石路、印象派画家莫奈笔下的海滩景致，百年来几乎未变。",
-      "category": "世界",
+      "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
+      "summary": "中国恒大集团创始人许家印被深圳中院判处无期徒刑，公司被罚逾 20 亿美元。这家曾负债超 3000 亿美元的地产巨头因财务造假与非法集资轰然倒塌，成为行业转折的标志性事件。",
+      "category": "商业",
       "sentences": [
         {
-          "en": "Normandy beach town has hardly changed since Monet painted it.",
-          "zh": "这座诺曼底海滨小镇自莫奈描绘它以来几乎未曾改变。"
+          "en": "Chinese property developer Hui Ka Yan, founder of the Evergrande real estate group, has been sentenced to life in prison.",
+          "zh": "中国房地产开发商、恒大集团创始人许家印已被判处无期徒刑。"
         },
         {
-          "en": "The Normandy beach town of Trouville-sur-Mer is just a two-hour train ride from the center of Paris, but it feels a world away.",
-          "zh": "特鲁维尔-梅尔这座诺曼底海滨小镇距巴黎市中心仅两小时火车车程，却让人感觉相隔一个世界。"
+          "en": "The companies were fined a total of $2.3 billion, a court in the southern city of Shenzhen said Thursday.",
+          "zh": "深圳一家法院周四表示，相关公司共被罚款 23 亿美元。"
         },
         {
-          "en": "Gone are the heat and traffic of the city, replaced by English Channel breezes and the sound of seagulls screeching through the cobbled streets.",
-          "zh": "城市的炎热与车流消失了，取而代之的是英吉利海峡的微风，以及海鸥在鹅卵石街道间尖鸣的声音。"
+          "en": "The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.",
+          "zh": "这一判决标志着恒大漫长危机的里程碑——它倒闭时负债超过 3000 亿美元。"
         },
         {
-          "en": "The beaches along this expanse of coastline known as the Norman Riviera are wide, with big tides.",
-          "zh": "沿着这片被称为\"诺曼底里维埃拉\"的海岸线，海滩宽阔，潮差很大。"
+          "en": "Chinese authorities cracked down on excessive borrowing in the real estate industry in 2020.",
+          "zh": "2020 年，中国监管部门对房地产行业过度借贷行为进行了整顿。"
         },
         {
-          "en": "Many Parisians come up just for the day, relaxing in chaise lounge chairs under colorful beach umbrellas that line the boardwalk.",
-          "zh": "许多巴黎人只是来度个一日游，在排列在木板步道旁、色彩缤纷的 Beach 伞下的躺椅上放松。"
+          "en": "That triggered a crunch among many developers and brought on a downturn in the property market.",
+          "zh": "这引发了众多开发商的资金危机，并导致房地产市场下滑。"
         },
         {
-          "en": "The Impressionists captured Trouville’s sandy beaches and shifting skies.",
-          "zh": "印象派画家捕捉了特鲁维尔的沙滩与变幻的天空。"
+          "en": "The Shenzhen Intermediate People's Court convicted Hui and Evergrande of engaged in large-scale financial fraud.",
+          "zh": "深圳市中级法院裁定许家印和恒大犯有大规模金融欺诈。"
         },
         {
-          "en": "Fashionable holiday makers began taking to the waters here in the 19th century in what was known as \"sea bathing.\"",
-          "zh": "时髦的度假者从 19 世纪起就开始在这里下水，当时这被称为\"海水浴\"。"
+          "en": "In a statement, the court also said Hui abused his position in orchestrating financial fraud and misappropriating company assets.",
+          "zh": "法院在声明中还表示，许家印滥用职权，策划金融欺诈并挪用公司资产。"
         },
         {
-          "en": "Looking at one of Claude Monet’s Trouville-sur-Mer beach scenes of turreted houses and fashionable boardwalk strollers, it feels like nothing has changed since then.",
-          "zh": "看着克劳德·莫奈笔下特鲁维尔海滩的景象——带塔楼的房屋与时尚的步道漫步者，感觉自那时起一切都没变。"
+          "en": "It also sentenced several other senior Evergrande executives to prison terms of up to 18 years.",
+          "zh": "法院还判处恒大其他几名高管最高 18 年有期徒刑。"
+        },
+        {
+          "en": "Hui pleaded guilty in April to various charges including illegal absorption of public deposits, fraud and bribery.",
+          "zh": "今年 4 月，许家印对多项指控认罪，包括非法吸收公共存款、欺诈和贿赂。"
+        },
+        {
+          "en": "China Evergrande, founded in 1996, defaulted on its debts in 2021.",
+          "zh": "成立于 1996 年的中国恒大在 2021 年债务违约。"
+        },
+        {
+          "en": "It was the world's most heavily indebted real estate developer before it was ordered to liquidate its assets.",
+          "zh": "在被下令清算资产之前，它曾是全世界负债最重的房地产开发商。"
+        },
+        {
+          "en": "Authorities said Evergrande had manipulated its financial data by tactics that included prematurely booking revenue from property sales.",
+          "zh": "有关部门表示，恒大通过包括提前确认房产销售收入在内的手段操纵了财务数据。"
         }
       ],
       "vocab": [
-        {
-          "word": "normandy",
-          "pos": "n.",
-          "zh": "诺曼底（法国地区）"
-        },
-        {
-          "word": "breeze",
-          "pos": "n.",
-          "zh": "微风"
-        },
-        {
-          "word": "seagull",
-          "pos": "n.",
-          "zh": "海鸥"
-        },
-        {
-          "word": "cobbled",
-          "pos": "adj.",
-          "zh": "铺着鹅卵石的"
-        },
-        {
-          "word": "expanse",
-          "pos": "n.",
-          "zh": "广阔区域"
-        },
-        {
-          "word": "riviera",
-          "pos": "n.",
-          "zh": "度假海滨"
-        },
-        {
-          "word": "tide",
-          "pos": "n.",
-          "zh": "潮汐"
-        },
-        {
-          "word": "chaise",
-          "pos": "n.",
-          "zh": "躺椅"
-        },
-        {
-          "word": "impressionist",
-          "pos": "n.",
-          "zh": "印象派画家"
-        },
-        {
-          "word": "attire",
-          "pos": "n.",
-          "zh": "服装；衣着"
-        },
-        {
-          "word": "stroller",
-          "pos": "n.",
-          "zh": "漫步者；散步的人"
-        },
-        {
-          "word": "turreted",
-          "pos": "adj.",
-          "zh": "带塔楼的"
-        }
+        { "word": "property", "pos": "n.", "zh": "房地产；财产" },
+        { "word": "developer", "pos": "n.", "zh": "开发商" },
+        { "word": "liability", "pos": "n.", "zh": "负债；债务" },
+        { "word": "fraud", "pos": "n.", "zh": "欺诈；骗局" },
+        { "word": "convict", "pos": "v.", "zh": "定罪；宣判有罪" },
+        { "word": "misappropriate", "pos": "v.", "zh": "挪用；盗用" },
+        { "word": "executive", "pos": "n.", "zh": "高管；主管人员" },
+        { "word": "default", "pos": "v.", "zh": "违约；拖欠" },
+        { "word": "liquidate", "pos": "v.", "zh": "清算；变现" },
+        { "word": "manipulate", "pos": "v.", "zh": "操纵；篡改" },
+        { "word": "asset", "pos": "n.", "zh": "资产" },
+        { "word": "downturn", "pos": "n.", "zh": "下滑；衰退" }
       ],
       "grammar": [
-        "but 并列转折：例：\"...it is just a two-hour train ride from the center of Paris, but it feels a world away.\" but 连接对比。",
-        "完全倒装 Gone are...：例：\"Gone are the heat and traffic of the city...\" 表语 gone 前置引起主谓倒装，强调消失的事物。",
-        "过去分词 replaced 作后置定语：例：\"...replaced by English Channel breezes...\" replaced 修饰前面名词，表被动。",
-        "现在分词 relaxing 作伴随状语：例：\"Many Parisians come up just for the day, relaxing in chaise lounge chairs...\" relaxing 表示伴随动作。",
-        "定语从句 that line the boardwalk：例：\"...colorful beach umbrellas that line the boardwalk.\" that 修饰 umbrellas。",
-        "in what was known as... 名词性从句：例：\"...in what was known as ‘sea bathing.’\" what 从句作介词 in 的宾语。",
-        "现在分词 Looking 作状语：例：\"Looking at one of Claude Monet’s... beach scenes, it feels like nothing has changed...\" looking 表时间/条件状语。"
+        "现在完成时被动 has been sentenced：例 \"Chinese property developer Hui Ka Yan... has been sentenced to life in prison.\" 现在完成时被动，强调判决结果对现在的影响。",
+        "after 引导的时间状语从句：例 \"The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.\" after 引出先发生的动作。",
+        "that 引导的定语从句：例 \"Authorities said Evergrande had manipulated its financial data by tactics that included prematurely booking revenue...\" that 修饰 tactics。",
+        "过去完成时 had manipulated：例 \"Authorities earlier said their investigations found Evergrande had manipulated its financial data...\" 过去完成时表示\"过去的过去\"。",
+        "并列连词 and 连接谓语：例 \"That triggered a crunch among many developers and brought on a downturn in the property market.\" and 连接两个谓语动词。",
+        "介词短语 including 表列举：例 \"Hui pleaded guilty... to various charges including illegal absorption of public deposits, fraud and bribery.\" including 引出所包含的内容。"
       ]
     },
     {
       "id": "news-7",
-      "title": "How extreme weather could help predict disease outbreaks",
-      "source": "NPR Science",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5929185/how-extreme-weather-could-help-predict-disease-outbreaks",
-      "summary": "一项新研究显示，巴西一场百年一遇的干旱可能助长了黄热病蔓延——理解极端天气与传染病的关联，或能帮助人类提前预测并防范疫情爆发。",
+      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
+      "source": "NPR News",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+      "summary": "美国遭遇史上最大规模的环孢子虫病爆发，逾 1.5 万例确诊，多与受污染的墨西哥生菜有关；地方食品安全人手不足，追踪与控制这种致腹泻寄生虫的难度陡增。",
       "category": "健康",
       "sentences": [
         {
-          "en": "A historic drought may have helped yellow fever spread in Brazil.",
-          "zh": "一场历史性的干旱或许助长了黄热病在巴西的传播。"
+          "en": "Environmental health expert Bob Custard spent four decades working with local governments on things like clean water, rabies prevention and food safety.",
+          "zh": "环境健康专家鲍勃·卡斯塔德花了四十年与地方政府的净水、狂犬病预防和食品安全等工作打交道。"
         },
         {
-          "en": "A new study shows how understanding the connection could help prepare for future outbreaks.",
-          "zh": "一项新研究展示了理解这种关联如何能帮助为未来的疫情爆发做准备。"
+          "en": "With the largest-ever cyclosporiasis outbreak concentrated in nearby states, Custard said federal funding cuts have left local food safety programs across the state grossly understaffed.",
+          "zh": "面对史上最大规模的环孢子虫病爆发集中在邻近各州，卡斯塔德说联邦经费削减让全州地方食品安全项目严重人手不足。"
         },
         {
-          "en": "Long droughts, flash floods, hurricanes — scientists say human carbon emissions are making extreme weather like this more common and more severe.",
-          "zh": "长期干旱、暴洪、飓风——科学家说，人类碳排放正让这类极端天气变得更常见、更严重。"
+          "en": "Health officials are unable to keep pace with the interviews and investigations needed to track and contain the diarrhea-causing bug.",
+          "zh": "卫生官员跟不上所需的访谈与调查节奏，难以追踪并控制这种导致腹泻的寄生虫。"
         },
         {
-          "en": "Researchers like the makers of this recording at the Muriqui Project of Caratinga noticed that endangered monkeys were dying by the hundreds.",
-          "zh": "像卡拉廷加穆里基项目里制作这段录音的研究人员一样，有人注意到濒危猴子正成百地死去。"
+          "en": "Meanwhile, epidemiologist Susan Mayne said the government has responded slowly to the record-shattering outbreak that started in May.",
+          "zh": "与此同时，流行病学家苏珊·梅恩表示，政府对这场始于 5 月、打破纪录的爆发反应迟缓。"
         },
         {
-          "en": "Before long, humans started to get sick, too.",
-          "zh": "不久，人类也开始生病。"
+          "en": "The summer's cyclosporiasis outbreak has been mostly linked to contaminated iceberg lettuce grown in Mexico.",
+          "zh": "今夏的环孢子虫病爆发主要与墨西哥种植、受到污染的结球生菜有关。"
         },
         {
-          "en": "It was the first case of urban yellow fever in about a century.",
-          "zh": "这是大约一个世纪以来首例城市黄热病。"
+          "en": "The U.S. now has over 15,700 cases confirmed by the Centers for Disease Control and Prevention as of this week.",
+          "zh": "截至本周，美国疾控中心已确诊超过 1.57 万例。"
         },
         {
-          "en": "Jamie Caldwell is a Princeton ecologist who uses data models to understand how infectious disease spreads.",
-          "zh": "杰米·考德威尔是一位普林斯顿生态学家，她用数据模型来理解传染病如何传播。"
+          "en": "Mayne echoed other scientists and food safety experts who said that is affecting the ground game against Cyclospora.",
+          "zh": "梅恩呼应了其他科学家和食品安全专家的说法，称这正影响对抗环孢子虫的\"地面战\"。"
         },
         {
-          "en": "As there was deforestation in the Amazon, you would start to see the disease move southeastward.",
-          "zh": "随着亚马逊地区森林被砍伐，你会开始看到这种疾病向东南方向移动。"
+          "en": "I think that that has really pushed us into a new level of vulnerability in terms of our food safety system, Mayne said.",
+          "zh": "梅恩说：我认为这真的把我们的食品安全体系推到了一个新的脆弱境地。"
         },
         {
-          "en": "There is a highly effective yellow fever vaccine, but because the virus is so rare in Brazilian cities, many people didn’t get it.",
-          "zh": "有一种非常有效的黄热病疫苗，但因为病毒在巴西城市里极为罕见，许多人并未接种。"
+          "en": "Most of the states' food safety and outbreak programs are funded by grants from the FDA and CDC.",
+          "zh": "大多数州的食品安全与疫情应对项目都由 FDA 和 CDC 的拨款资助。"
         },
         {
-          "en": "More than 740 people died between 2016 and 2018.",
-          "zh": "在 2016 至 2018 年间，有超过 740 人死亡。"
+          "en": "Kentucky's Cabinet for Health and Family Services said its food safety staff is down 30 to 50%.",
+          "zh": "肯塔基州卫生与家庭服务部表示，其食品安全人员减少了 30% 到 50%。"
         },
         {
-          "en": "Yellow fever is spread by mosquitoes, so floods can increase the risk of an outbreak.",
-          "zh": "黄热病由蚊子传播，因此洪水会增加疫情爆发的风险。"
+          "en": "Michigan, with the highest caseload, successfully fought grant cuts in court.",
+          "zh": "病例数最高的密歇根州成功在法庭上阻止了拨款削减。"
         },
         {
-          "en": "Fewer mosquitoes should mean fewer infections.",
-          "zh": "更少的蚊子应该意味着更少的感染。"
+          "en": "That allows disease surveillance, investigation, reporting and public service messaging to continue for now.",
+          "zh": "这让疾病监测、调查、上报和公共服务宣传得以暂时继续。"
         }
       ],
       "vocab": [
-        {
-          "word": "drought",
-          "pos": "n.",
-          "zh": "干旱"
-        },
-        {
-          "word": "outbreak",
-          "pos": "n.",
-          "zh": "（疾病）爆发"
-        },
-        {
-          "word": "emissions",
-          "pos": "n.",
-          "zh": "排放（物）"
-        },
-        {
-          "word": "endangered",
-          "pos": "adj.",
-          "zh": "濒危的"
-        },
-        {
-          "word": "ecologist",
-          "pos": "n.",
-          "zh": "生态学家"
-        },
-        {
-          "word": "deforestation",
-          "pos": "n.",
-          "zh": "森林砍伐"
-        },
-        {
-          "word": "vaccine",
-          "pos": "n.",
-          "zh": "疫苗"
-        },
-        {
-          "word": "mosquito",
-          "pos": "n.",
-          "zh": "蚊子"
-        },
-        {
-          "word": "infectious",
-          "pos": "adj.",
-          "zh": "传染性的"
-        },
-        {
-          "word": "severity",
-          "pos": "n.",
-          "zh": "严重程度"
-        },
-        {
-          "word": "southeastward",
-          "pos": "adv.",
-          "zh": "向东南方向"
-        },
-        {
-          "word": "flash",
-          "pos": "adj.",
-          "zh": "突发的；迅猛的（flash flood 暴洪）"
-        }
+        { "word": "cyclosporiasis", "pos": "n.", "zh": "环孢子虫病（一种食源性寄生虫病）" },
+        { "word": "outbreak", "pos": "n.", "zh": "爆发；疫情" },
+        { "word": "epidemiologist", "pos": "n.", "zh": "流行病学家" },
+        { "word": "contaminated", "pos": "adj.", "zh": "被污染的" },
+        { "word": "surveillance", "pos": "n.", "zh": "监测；监视" },
+        { "word": "vulnerability", "pos": "n.", "zh": "脆弱性；易受伤害" },
+        { "word": "diarrhea", "pos": "n.", "zh": "腹泻" },
+        { "word": "caseload", "pos": "n.", "zh": "病例数；工作量" },
+        { "word": "grant", "pos": "n.", "zh": "拨款；补助" },
+        { "word": "contain", "pos": "v.", "zh": "控制；遏制" },
+        { "word": "lettuce", "pos": "n.", "zh": "生菜" },
+        { "word": "parasite", "pos": "n.", "zh": "寄生虫" }
       ],
       "grammar": [
-        "may have + 过去分词（情态动词表对过去的推测）：例：\"A historic drought may have helped yellow fever spread in Brazil.\" may have helped 推测过去可能发生的事。",
-        "how 引导宾语从句：例：\"A new study shows how understanding the connection could help prepare for future outbreaks.\" how 从句作 shows 的宾语。",
-        "破折号列举：例：\"Long droughts, flash floods, hurricanes — scientists say...\" 破折号前列举极端天气类型。",
-        "as 引导原因状语从句：例：\"As there was deforestation in the Amazon, you would start to see the disease move southeastward.\" as 表原因。",
-        "but + because 复合：例：\"There is a highly effective yellow fever vaccine, but because the virus is so rare..., many people didn’t get it.\" but 后接 because 从句。",
-        "so 引导结果：例：\"Yellow fever is spread by mosquitoes, so floods can increase the risk of an outbreak.\" so 连接因果。",
-        "fewer + 复数名词比较级：例：\"Fewer mosquitoes should mean fewer infections.\" fewer 修饰可数名词复数，表\"更少的\"。"
+        "现在完成时 have left：例 \"federal funding cuts have left local food safety programs across the state grossly understaffed.\" 现在完成时表示过去动作对现在的影响。",
+        "过去分词 contaminated 作后置定语：例 \"The summer's cyclosporiasis outbreak has been mostly linked to contaminated iceberg lettuce...\" contaminated 修饰 lettuce，相当于 which was contaminated。",
+        "定语从句 needed to track and contain：例 \"Health officials are unable to keep pace with the interviews and investigations needed to track and contain the diarrhea-causing bug.\" needed 短语修饰前面的名词。",
+        "as of 表示\"截至\"：例 \"The U.S. now has over 15,700 cases confirmed by the CDC as of this week.\" as of 后接时间节点。",
+        "现在完成时被动 has been linked：例 \"The summer's cyclosporiasis outbreak has been mostly linked to contaminated iceberg lettuce...\" 现在完成时被动。",
+        "who 引导的定语从句：例 \"Mayne echoed other scientists and food safety experts who said that is affecting the ground game...\" who 修饰 experts。"
+      ]
+    },
+    {
+      "id": "news-8",
+      "title": "Prince Harry and Meghan are returning to the U.K. with their children",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
+      "summary": "哈里王子和梅根决定从今年秋天起长居英国，两个孩子已在英入学，但二人不会恢复王室\"在职成员\"身份；此行被外界视为哈里与父亲查尔斯三世缓和关系的信号。",
+      "category": "世界",
+      "sentences": [
+        {
+          "en": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall.",
+          "zh": "哈里王子和妻子梅根已决定从今年秋天起返回英国，进行一段较长时间的居留。"
+        },
+        {
+          "en": "They won't resume their roles as working members of the royal family.",
+          "zh": "他们不会恢复作为王室\"在职成员\"的角色。"
+        },
+        {
+          "en": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, have already enrolled at British schools and will start classes in September.",
+          "zh": "这对夫妇的孩子——7 岁的阿奇王子和 5 岁的莉莉贝特公主——已在英国学校注册，将于 9 月开学。"
+        },
+        {
+          "en": "The family plans to live at a private, non-royal residence outside of London.",
+          "zh": "这家人计划住在伦敦郊外一处私人的、非王室的住所。"
+        },
+        {
+          "en": "Harry and Meghan gave up their royal duties and moved to California more than six years ago.",
+          "zh": "哈里和梅根在六年多前放弃了王室职责，搬到了加利福尼亚。"
+        },
+        {
+          "en": "Although relations with the rest of the royal family have soured since then, Harry has recently expressed an interest in reconciliation.",
+          "zh": "尽管自那以后与王室其他成员的关系已经恶化，哈里最近表达了和解的意愿。"
+        },
+        {
+          "en": "Harry has recently expressed an interest in reconciliation so he could spend more time with his father, King Charles III.",
+          "zh": "哈里最近表达了和解的意愿，以便能多陪陪父亲查尔斯三世国王。"
+        },
+        {
+          "en": "Charles was informed of the couple's plans on Sunday.",
+          "zh": "查尔斯在周日得知了这对夫妇的计划。"
+        },
+        {
+          "en": "According to a source close to the Sussexes, Meghan will continue heading her As Ever company from the U.K.",
+          "zh": "据一位接近苏塞克斯夫妇的消息人士称，梅根将在英国继续执掌她的 As Ever 公司。"
+        },
+        {
+          "en": "Harry and Meghan have had a stormy relationship with the royal family ever since they decamped to a mansion in Montecito.",
+          "zh": "自从他们搬进蒙特西托的豪宅，哈里和梅根与王室的关系就一直风波不断。"
+        },
+        {
+          "en": "In Harry's memoir 'Spare,' the couple said they left Britain to escape the restrictions of royal life and criticized palace officials for being insensitive to Meghan's mental health.",
+          "zh": "在哈里的回忆录《备胎》中，二人表示离开英国是为了逃避王室生活的束缚，并批评王室官员对梅根的心理健康漠不关心。"
+        },
+        {
+          "en": "Harry has also been embroiled in a legal wrangle with the British government after a government committee refused to authorize police protection.",
+          "zh": "在一个政府委员会拒绝批准警方保护后，哈里还卷入了与英国政府的法律纠纷。"
+        }
+      ],
+      "vocab": [
+        { "word": "extended", "pos": "adj.", "zh": "延长的；长期的" },
+        { "word": "residence", "pos": "n.", "zh": "住所；居所" },
+        { "word": "reconciliation", "pos": "n.", "zh": "和解；和好" },
+        { "word": "soured", "pos": "v.", "zh": "变坏；恶化（指关系）" },
+        { "word": "decamp", "pos": "v.", "zh": "撤离；离开" },
+        { "word": "memoir", "pos": "n.", "zh": "回忆录" },
+        { "word": "restriction", "pos": "n.", "zh": "限制；约束" },
+        { "word": "embroiled", "pos": "adj.", "zh": "卷入的；陷入的" },
+        { "word": "wrangle", "pos": "n.", "zh": "争吵；纠纷" },
+        { "word": "authorize", "pos": "v.", "zh": "授权；批准" },
+        { "word": "royal", "pos": "adj.", "zh": "皇室的；王室的" },
+        { "word": "enrollment", "pos": "n.", "zh": "入学；注册" }
+      ],
+      "grammar": [
+        "现在完成时 have decided：例 \"Prince Harry and his wife, Meghan, have decided to return to the United Kingdom...\" 现在完成时表示已做出的决定及其影响。",
+        "although 引导让步状语从句：例 \"Although relations with the rest of the royal family have soured since then, Harry has recently expressed an interest in reconciliation.\" although 表示\"尽管\"。",
+        "现在完成时 have had：例 \"Harry and Meghan have had a stormy relationship with the royal family...\" 强调从过去持续到现在的状态。",
+        "so 引导目的状语：例 \"Harry has recently expressed an interest in reconciliation so he could spend more time with his father...\" so 引出目的。",
+        "after 引导时间状语从句：例 \"Harry has also been embroiled in a legal wrangle... after a government committee refused to authorize police protection.\" after 表示\"在……之后\"。",
+        "ever since 引导时间从句：例 \"...ever since they decamped to a mansion in Montecito.\" ever since 表示\"自从……以来\"。"
       ]
     }
   ]
